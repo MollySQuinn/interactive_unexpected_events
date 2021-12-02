@@ -1,0 +1,1021 @@
+,user_id,answer_text,expt,ans_code,ans_count,val_code,val_count,material,cond
+0,2.216.190.219,He is delayed in traffic.,expt3_2,sd_neg_ans1,1.0,neg,1.0,sam_driving,neg_mat
+1,2.216.190.219,He is involved in an accident.,expt3_2,pc_neg_ans1,1.0,neg,1.0,peter_college,neg_mat
+2,2.216.190.219,He is offered a promotion.,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+3,2.216.190.219,"His computer crashes and he loses the work,.",expt3_2,re_neg_ans2,1.0,neg,1.0,robert_essay,neg_mat
+4,2.216.190.219,She eats the ;pizza crusts.,expt3_2,other,1.0,neg,1.0,mary_food,neg_mat
+5,2.216.190.219,She has gone on the wrong day.,expt3_2,bm_neg_ans3,1.0,neg,1.0,belinda_meeting,neg_mat
+6,2.216.190.219,She is attacked in the street,expt3_2,sw_neg_ans3,1.0,neg,1.0,sally_wine,pos_mat
+7,2.216.190.219,She is declined.,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+8,2.216.190.219,The lawnmower is broken.,expt3_2,sg_neg_ans4,1.0,neg,1.0,steve_garden,pos_mat
+9,2.216.190.219,The money has not been paid.,expt3_2,ls_neg_ans1,1.0,neg,1.0,louise_shopping,pos_mat
+10,54762f9efdf99b05557e04be,A deer runs out in front of the car and he hits it,expt3_1,sd_neg_ans3,1.0,neg,1.0,sam_driving,pos_mat
+11,54762f9efdf99b05557e04be,A friend turns up unexpectedly and suggests they go out which they do.  He forgets to submit the essay,expt3_1,other,1.0,neg,1.0,robert_essay,pos_mat
+12,54762f9efdf99b05557e04be,"Bob's boss praises him, gives him a pay rise and promotes him.",expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+13,54762f9efdf99b05557e04be,He uncovers a box that he'd had a child that he'd forgotten all about.,expt3_1,sg_pos_ans3,1.0,pos,1.0,steve_garden,neg_mat
+14,54762f9efdf99b05557e04be,Lucy get's a text saying she's jut won a car in a competition so doesn't need the loan.,expt3_1,ll_pos_ans3,1.0,pos,1.0,lucy_loan,neg_mat
+15,54762f9efdf99b05557e04be,The ATM paid out in £20 notes rather than 10s so she got double the money,expt3_1,ls_pos_ans1,1.0,pos,1.0,louise_shopping,neg_mat
+16,54762f9efdf99b05557e04be,"as she leaves the house she finds her cat, run over in the road",expt3_1,sw_neg_ans3,1.0,neg,1.0,sally_wine,neg_mat
+17,54762f9efdf99b05557e04be,he turns the wrong way down the road without realising.,expt3_1,pc_neg_ans3,1.0,neg,1.0,peter_college,pos_mat
+18,54762f9efdf99b05557e04be,she finds that all her colleagues have moved on and there a new team members,expt3_1,other,1.0,neither,1.0,belinda_meeting,pos_mat
+19,54762f9efdf99b05557e04be,when she needs to go out again she finds that her is keys are not there but noone else is in,expt3_1,mf_neg_ans3,1.0,neg,1.0,mary_food,pos_mat
+20,54ab0771fdf99b55c3f55227,Belinda runs into an old friend from school,expt3_2,other,1.0,pos,1.0,belinda_meeting,neg_mat
+21,54ab0771fdf99b55c3f55227,Bob is fired,expt3_2,bj_neg_ans1,1.0,neg,1.0,bob_job,pos_mat
+22,54ab0771fdf99b55c3f55227,Louise crashes the car,expt3_2,other,1.0,neg,1.0,lucy_loan,pos_mat
+23,54ab0771fdf99b55c3f55227,Louise is mugged at the ATM,expt3_2,ls_neg_ans3,1.0,neg,1.0,louise_shopping,pos_mat
+24,54ab0771fdf99b55c3f55227,Peter crashes his bike,expt3_2,pc_neg_ans1,1.0,neg,1.0,peter_college,neg_mat
+25,54ab0771fdf99b55c3f55227,Sam discovers a previously lost item in the grass,expt3_2,sg_pos_ans3,1.0,pos,1.0,steve_garden,pos_mat
+26,54ab0771fdf99b55c3f55227,Sam drives into the car in front,expt3_2,sd_neg_ans3,1.0,neg,1.0,sam_driving,neg_mat
+27,54ab0771fdf99b55c3f55227,her flatmate was sick and had to go to the doctor,expt3_2,other,1.0,neg,1.0,mary_food,neg_mat
+28,54ab0771fdf99b55c3f55227,his computer crashes and he loses his work,expt3_2,re_neg_ans2,1.0,neg,1.0,robert_essay,neg_mat
+29,54ab0771fdf99b55c3f55227,she sees her husband looking cosy with another woman,expt3_2,sw_neg_ans7,1.0,neg,1.0,sally_wine,pos_mat
+30,563b92e8be9cac0005aab72f,A helicopter crashed on the road and he might spend his whole evening in the traffic,expt3_2,sd_neg_ans1,1.0,neg,1.0,sam_driving,neg_mat
+31,563b92e8be9cac0005aab72f,Bob was promoted ,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+32,563b92e8be9cac0005aab72f,He runs into his college crush,expt3_2,pc_pos_ans2,1.0,pos,1.0,peter_college,neg_mat
+33,563b92e8be9cac0005aab72f,Her credit card disappears in the ATM machine,expt3_2,ls_neg_ans2,1.0,neg,1.0,louise_shopping,pos_mat
+34,563b92e8be9cac0005aab72f,His laptop stops working.,expt3_2,re_neg_ans2,1.0,neg,1.0,robert_essay,neg_mat
+35,563b92e8be9cac0005aab72f,It turned out that his lawnmower has been replaced by a new model,expt3_2,sg_pos_ans3,1.0,pos,1.0,steve_garden,pos_mat
+36,563b92e8be9cac0005aab72f,It turns out she's not eligible for a loan,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+37,563b92e8be9cac0005aab72f,She finds one of her flat-mates dead on the floor,expt3_2,other,1.0,neg,1.0,mary_food,neg_mat
+38,563b92e8be9cac0005aab72f,She gets in a car accident,expt3_2,bm_neg_ans1,1.0,neg,1.0,belinda_meeting,neg_mat
+39,563b92e8be9cac0005aab72f,The corner shop is closed,expt3_2,sw_neg_ans5,1.0,neg,1.0,sally_wine,pos_mat
+40,5640b5b4074be600055e9b57,bike incident ,expt3_1,pc_neg_ans1,1.0,neg,1.0,peter_college,pos_mat
+41,5640b5b4074be600055e9b57,he was offered a promotion,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+42,5640b5b4074be600055e9b57,her husband asks her not to go ,expt3_1,sw_neg_ans7,1.0,neg,1.0,sally_wine,neg_mat
+43,5640b5b4074be600055e9b57,her withdrawal was rejected,expt3_1,ls_neg_ans2,1.0,neg,1.0,louise_shopping,neg_mat
+44,5640b5b4074be600055e9b57,the computer deletes the essay ,expt3_1,re_neg_ans2,1.0,neg,1.0,robert_essay,pos_mat
+45,5640b5b4074be600055e9b57,the keys fall on the floor ,expt3_1,mf_neg_ans3,1.0,neg,1.0,mary_food,pos_mat
+46,5640b5b4074be600055e9b57,the lawnmower is not working,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+47,5640b5b4074be600055e9b57,the meeting has been rescheduled ,expt3_1,bm_neg_ans3,1.0,neg,1.0,belinda_meeting,pos_mat
+48,5640b5b4074be600055e9b57,the radio informs him of a traffic incident,expt3_1,sd_neg_ans1,1.0,neg,1.0,sam_driving,pos_mat
+49,5640b5b4074be600055e9b57,they reject the loan ,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+50,56e68157f6ed90000ba5855c,He wakes up from a nightmare.,expt3_2,re_neg_ans4,1.0,neg,1.0,robert_essay,neg_mat
+51,56e68157f6ed90000ba5855c,Her colleagues are really friendly.,expt3_2,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,neg_mat
+52,56e68157f6ed90000ba5855c,Her mate got her a pizza too.,expt3_2,mf_pos_ans1,1.0,pos,1.0,mary_food,neg_mat
+53,56e68157f6ed90000ba5855c,His boss promotes him.,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+54,56e68157f6ed90000ba5855c,His police officer friend notices him and gives him an escort home. ,expt3_2,sd_pos_ans4,1.0,pos,1.0,sam_driving,neg_mat
+55,56e68157f6ed90000ba5855c,She bumps into her husband who has just bought a bottle of wine.,expt3_2,sw_pos_ans5,1.0,pos,1.0,sally_wine,pos_mat
+56,56e68157f6ed90000ba5855c,She got more money out of the ATM than she asked for.,expt3_2,ls_pos_ans1,1.0,pos,1.0,louise_shopping,pos_mat
+57,56e68157f6ed90000ba5855c,The lawnmower is missing.,expt3_2,other,1.0,neg,1.0,steve_garden,pos_mat
+58,56e68157f6ed90000ba5855c,There is a stand in Professor.,expt3_2,pc_pos_ans6,1.0,neither,1.0,peter_college,neg_mat
+59,56e68157f6ed90000ba5855c,They turn her down for the loan.,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+60,56f99190895094000b922acf,Bank refuses her a loan and tells her to make do with the car she has.,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+61,56f99190895094000b922acf,Bob tells his boss about being unhappy and is offered promotion.,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+62,56f99190895094000b922acf,Five minutes after checking the traffic report an accident occurs . Stuck in traffic he misses the first half of the game.,expt3_1,sd_neg_ans1,1.0,neg,1.0,sam_driving,pos_mat
+63,56f99190895094000b922acf,Half way to College he has a puncture . It takes him 20 minutes to fix making him late for the lecture.,expt3_1,pc_neg_ans2,1.0,neg,1.0,peter_college,pos_mat
+64,56f99190895094000b922acf,He finds that he has ran out of petrol for his lawnmower.,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+65,56f99190895094000b922acf,He forgets to save the essay on his computer and it is lost.,expt3_1,re_neg_ans2,1.0,neg,1.0,robert_essay,pos_mat
+66,56f99190895094000b922acf,She desides not to buy any clothes that day as she does not have enough money.,expt3_1,ls_neg_ans1,1.0,neg,1.0,louise_shopping,neg_mat
+67,56f99190895094000b922acf,She eats the pizza and cleans up the mess throwing the keys out with the carton the pizza was in,expt3_1,mf_neg_ans3,1.0,neg,1.0,mary_food,pos_mat
+68,56f99190895094000b922acf,She is walking to the shop and finds a £20 note on the street . She buys the wine.,expt3_1,sw_pos_ans3,1.0,pos,1.0,sally_wine,neg_mat
+69,56f99190895094000b922acf,When she arrives she does not know any of the colleagues at the meeting. They are from different departments and not very welcoming.,expt3_1,bm_neg_ans8,1.0,neg,1.0,belinda_meeting,pos_mat
+70,571073cced0d66001290077d,a spider bites him ,expt3_1,sg_neg_ans7,1.0,neg,1.0,steve_garden,neg_mat
+71,571073cced0d66001290077d,he gets a bonus,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+72,571073cced0d66001290077d,his computer crashes and loses al his work,expt3_1,re_neg_ans2,1.0,neg,1.0,robert_essay,pos_mat
+73,571073cced0d66001290077d,his lecture was cancelled,expt3_1,pc_pos_ans4,1.0,pos,1.0,peter_college,pos_mat
+74,571073cced0d66001290077d,it starts raining,expt3_1,sd_neg_ans6,1.0,neg,1.0,sam_driving,pos_mat
+75,571073cced0d66001290077d,no idea,expt3_1,,,,,,
+76,571073cced0d66001290077d,she crashes,expt3_1,bm_neg_ans1,1.0,neg,1.0,belinda_meeting,pos_mat
+77,571073cced0d66001290077d,she gets nothing,expt3_1,other,1.0,neg,1.0,lucy_loan,neg_mat
+78,571073cced0d66001290077d,she is robbed,expt3_1,ls_neg_ans3,1.0,neg,1.0,louise_shopping,neg_mat
+79,571073cced0d66001290077d,there is no wine left,expt3_1,sw_neg_ans1,1.0,neg,1.0,sally_wine,neg_mat
+80,572e0682bb6cca000e53dfa2,"A sudden realisation whilst proofreading his answer that he might not have read the question correctly - he checks, and he hadn't.",expt3_1,re_neg_ans3,1.0,neg,1.0,robert_essay,pos_mat
+81,572e0682bb6cca000e53dfa2,An old lady suddenly step into the road whilst he's distracted by the radio dial and he runs her over.,expt3_1,sd_neg_ans3,1.0,neg,1.0,sam_driving,pos_mat
+82,572e0682bb6cca000e53dfa2,"As she enters the shop her husband is at the counter, buying her chocolate and flowers.",expt3_1,sw_pos_ans5,1.0,pos,1.0,sally_wine,neg_mat
+83,572e0682bb6cca000e53dfa2,Her colleagues are outside waiting for her and cheer and applaud as she pulls up in the taxi.,expt3_1,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,pos_mat
+84,572e0682bb6cca000e53dfa2,Her flatmate has had a promotion at work and decided to share her joy with Mary (she normally not being too good at pulling her weight around the house).,expt3_1,other,1.0,pos,1.0,mary_food,pos_mat
+85,572e0682bb6cca000e53dfa2,"His boss apologies for taking him for granted, and gives him a pay rise.",expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+86,572e0682bb6cca000e53dfa2,"She blows her ATM cash on a fabulous dress and shoes, to cheer herself up - even though she knows she can't afford them - and when she gets to the till to pay she's told she's the company's millionth customer, and not only are her purchases free but she gets a voucher for 10,000 (Pounds or Euros).",expt3_1,other,1.0,pos,1.0,louise_shopping,neg_mat
+87,572e0682bb6cca000e53dfa2,The bank says yes.,expt3_1,ll_pos_ans2,1.0,pos,1.0,lucy_loan,neg_mat
+88,572e0682bb6cca000e53dfa2,"The chain broke on his bike, and he gets oil all over his trousers.",expt3_1,pc_neg_ans2,1.0,neg,1.0,peter_college,pos_mat
+89,572e0682bb6cca000e53dfa2,"The lawnmower won't work (run out of petrol, or the electrical cable has been chewed through by a mouse).",expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+90,57b45ea3f6b9390001af209f,Goes to wrong venue,expt3_1,bm_neg_ans6,1.0,neg,1.0,belinda_meeting,pos_mat
+91,57b45ea3f6b9390001af209f,He fell off his bike,expt3_1,pc_neg_ans1,1.0,neg,1.0,peter_college,pos_mat
+92,57b45ea3f6b9390001af209f,He found a spelling mistake,expt3_1,re_neg_ans3,1.0,neg,1.0,robert_essay,pos_mat
+93,57b45ea3f6b9390001af209f,He quit,expt3_1,bj_neg_ans3,1.0,neg,1.0,bob_job,neg_mat
+94,57b45ea3f6b9390001af209f,She ate the pizza,expt3_1,other,1.0,neither,1.0,mary_food,pos_mat
+95,57b45ea3f6b9390001af209f,The ATM wont give her cash,expt3_1,ls_neg_ans2,1.0,neg,1.0,louise_shopping,neg_mat
+96,57b45ea3f6b9390001af209f,They give her the money,expt3_1,ll_pos_ans2,1.0,pos,1.0,lucy_loan,neg_mat
+97,57b45ea3f6b9390001af209f,he crashes his car,expt3_1,sd_neg_ans3,1.0,neg,1.0,sam_driving,pos_mat
+98,57b45ea3f6b9390001af209f,she stole the bottle,expt3_1,other,1.0,neg,1.0,sally_wine,neg_mat
+99,57b45ea3f6b9390001af209f,the lawnmower doesn't work,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+100,57d02eeec6c5ed00013fac58,A lot of new people are there.,expt3_1,other,1.0,neither,1.0,belinda_meeting,pos_mat
+101,57d02eeec6c5ed00013fac58,He gets the sack,expt3_1,bj_neg_ans1,1.0,neg,1.0,bob_job,neg_mat
+102,57d02eeec6c5ed00013fac58,His usual professor is absent and there is a different one.,expt3_1,pc_pos_ans6,1.0,neither,1.0,peter_college,pos_mat
+103,57d02eeec6c5ed00013fac58,It's perfect on first reading,expt3_1,re_pos_ans7,1.0,pos,1.0,robert_essay,pos_mat
+104,57d02eeec6c5ed00013fac58,She gets a bigger loan than expected,expt3_1,other,1.0,pos,1.0,lucy_loan,neg_mat
+105,57d02eeec6c5ed00013fac58,The lawnmower is not working,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+106,57d02eeec6c5ed00013fac58,The pizza is stone cold,expt3_1,mf_neg_ans1,1.0,neg,1.0,mary_food,pos_mat
+107,57d02eeec6c5ed00013fac58,The shop is closed,expt3_1,sw_neg_ans5,1.0,neg,1.0,sally_wine,neg_mat
+108,57d02eeec6c5ed00013fac58,There are no problems and roads quieter than ever.,expt3_1,sd_pos_ans3,1.0,pos,1.0,sam_driving,pos_mat
+109,57d02eeec6c5ed00013fac58,There's more money than expected in her account.,expt3_1,ls_pos_ans2,1.0,pos,1.0,louise_shopping,neg_mat
+110,57dd766bbcd7150001ded5de,Bob is unhappy with his job and is likely of a mind to quit.,expt3_1,bj_neg_ans3,1.0,neg,1.0,bob_job,neg_mat
+111,57dd766bbcd7150001ded5de,He is expecting trouble on the roads as he is speeding and checking the traffic reports even though there is light traffic.,expt3_1,sd_neg_ans1,1.0,neg,1.0,sam_driving,pos_mat
+112,57dd766bbcd7150001ded5de,He likely is pressed for time given he is staying up late.,expt3_1,other,1.0,neg,1.0,robert_essay,pos_mat
+113,57dd766bbcd7150001ded5de,He was not able to go to the class on time like he usually does as the professor is Peter's fave.,expt3_1,pc_neg_ans3,1.0,neg,1.0,peter_college,pos_mat
+114,57dd766bbcd7150001ded5de,She had to go right to the meeting instead of palling around.,expt3_1,other,1.0,neg,1.0,belinda_meeting,pos_mat
+115,57dd766bbcd7150001ded5de,She is going to be hard up for money as she received a pay cut.,expt3_1,ls_neg_ans1,1.0,neg,1.0,louise_shopping,neg_mat
+116,57dd766bbcd7150001ded5de,She was unable to get any value from her current car to trade it in to the dealer.,expt3_1,other,1.0,neg,1.0,lucy_loan,neg_mat
+117,57dd766bbcd7150001ded5de,She wound up not being able to get food on her way home but had to rely on her flat mate for food.,expt3_1,mf_pos_ans1,1.0,neither,1.0,mary_food,pos_mat
+118,57dd766bbcd7150001ded5de,Something like an injury as Steve has not tended his garden in weeks and he is simply going to cut the grass.,expt3_1,sg_neg_ans7,1.0,neg,1.0,steve_garden,neg_mat
+119,57dd766bbcd7150001ded5de,There seems to be money problems in the household.,expt3_1,other,1.0,neg,1.0,sally_wine,neg_mat
+120,580618c894364b00011f46c2,An unexpected accident ahead slows him down,expt3_1,sd_neg_ans1,1.0,neg,1.0,sam_driving,pos_mat
+121,580618c894364b00011f46c2,He finds errors in his essay,expt3_1,re_neg_ans3,1.0,neg,1.0,robert_essay,pos_mat
+122,580618c894364b00011f46c2,He gets fired. ,expt3_1,bj_neg_ans1,1.0,neg,1.0,bob_job,neg_mat
+123,580618c894364b00011f46c2,He is late because he rides a bike,expt3_1,pc_neg_ans3,1.0,neg,1.0,peter_college,pos_mat
+124,580618c894364b00011f46c2,Her car is worthless,expt3_1,other,1.0,neg,1.0,lucy_loan,neg_mat
+125,580618c894364b00011f46c2,Her flat-mate left pizza for her ,expt3_1,mf_pos_ans1,1.0,pos,1.0,mary_food,pos_mat
+126,580618c894364b00011f46c2,Her husband divorces her,expt3_1,sw_neg_ans7,1.0,neg,1.0,sally_wine,neg_mat
+127,580618c894364b00011f46c2,His lawnmower doesn't work,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+128,580618c894364b00011f46c2,She draws money even though she shouldn't ,expt3_1,ls_neg_ans1,1.0,neg,1.0,louise_shopping,neg_mat
+129,580618c894364b00011f46c2,she was late.,expt3_1,bm_neg_ans2,1.0,neg,1.0,belinda_meeting,pos_mat
+130,58066308240a2d0001e6ae97,He gets sacked ,expt3_2,bj_neg_ans1,1.0,neg,1.0,bob_job,pos_mat
+131,58066308240a2d0001e6ae97,None of them arrive ,expt3_2,other,1.0,neg,1.0,belinda_meeting,neg_mat
+132,58066308240a2d0001e6ae97,Some one robs her ,expt3_2,ls_neg_ans3,1.0,neg,1.0,louise_shopping,pos_mat
+133,58066308240a2d0001e6ae97,There is diversions because of road works and it will now take him an extra 15 mins to get home,expt3_2,sd_neg_ans1,1.0,neg,1.0,sam_driving,neg_mat
+134,58066308240a2d0001e6ae97,a car runs over him,expt3_2,pc_neg_ans1,1.0,neg,1.0,peter_college,neg_mat
+135,58066308240a2d0001e6ae97,he notices more flowers have grown after he cuts the grass ,expt3_2,sg_pos_ans3,1.0,pos,1.0,steve_garden,pos_mat
+136,58066308240a2d0001e6ae97,he realises he has made so much mistakes that it will be impossible to finish on time ,expt3_2,re_neg_ans3,1.0,neg,1.0,robert_essay,neg_mat
+137,58066308240a2d0001e6ae97,her favorite wine is down in price ,expt3_2,sw_pos_ans2,1.0,pos,1.0,sally_wine,pos_mat
+138,58066308240a2d0001e6ae97,she got caught eating pizza crusts ,expt3_2,mf_neg_ans5,1.0,neg,1.0,mary_food,neg_mat
+139,58066308240a2d0001e6ae97,she was refused a loan,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+140,582470f7e198b200012fc7e7,A stranger passing by sees her car and offers to buy it as a classic car.,expt3_1,ll_pos_ans1,1.0,pos,1.0,lucy_loan,neg_mat
+141,582470f7e198b200012fc7e7,He discovers a hibernating hedgehog and realises that his 'mess' is ideal habitat for wildlife.,expt3_1,sg_pos_ans3,1.0,pos,1.0,steve_garden,neg_mat
+142,582470f7e198b200012fc7e7,"He hears a radio appeal for soccer coaches for kids, and he decides to volunteer",expt3_1,other,1.0,pos,1.0,sam_driving,pos_mat
+143,582470f7e198b200012fc7e7,He suddenly realises that he has completely misunderstood the question,expt3_1,re_neg_ans3,1.0,neg,1.0,robert_essay,pos_mat
+144,582470f7e198b200012fc7e7,Her flat mate has left a note under the pizza to says Mary's favourite ice cream is in the freezer.,expt3_1,mf_pos_ans3,1.0,pos,1.0,mary_food,pos_mat
+145,582470f7e198b200012fc7e7,His bike gets a flat wheel.,expt3_1,pc_neg_ans2,1.0,neg,1.0,peter_college,pos_mat
+146,582470f7e198b200012fc7e7,"His boss is glad to see him, and agrees to something about the issues Bob identifies.",expt3_1,bj_pos_ans3,1.0,pos,1.0,bob_job,neg_mat
+147,582470f7e198b200012fc7e7,She suddenly decides to keep walking and not go home to her husband,expt3_1,other,1.0,neither,1.0,sally_wine,neg_mat
+148,582470f7e198b200012fc7e7,The clothes shop is having a closing down sale.,expt3_1,ls_pos_ans4,1.0,pos,1.0,louise_shopping,neg_mat
+149,582470f7e198b200012fc7e7,They announce that they're taking her out to lunch to welcome her.,expt3_1,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,pos_mat
+150,5833e52deffe9300018f8380,Instead if euros the ATM spits out dollars ,expt3_2,ls_neg_ans2,1.0,neg,1.0,louise_shopping,pos_mat
+151,5833e52deffe9300018f8380,as he pulls the cord to start the mower it breaks ,expt3_2,sg_neg_ans1,1.0,neg,1.0,steve_garden,pos_mat
+152,5833e52deffe9300018f8380,as she enters the meeting room two men are fighting on a table,expt3_2,bm_neg_ans8,1.0,neg,1.0,belinda_meeting,neg_mat
+153,5833e52deffe9300018f8380,he is hit by a bus,expt3_2,pc_neg_ans1,1.0,neg,1.0,peter_college,neg_mat
+154,5833e52deffe9300018f8380,he realizes he has accidentally stumbled on the meaning of life,expt3_2,other,1.0,pos,1.0,robert_essay,neg_mat
+155,5833e52deffe9300018f8380,his boss tells him the company is closing and he lost his job,expt3_2,bj_neg_ans1,1.0,neg,1.0,bob_job,pos_mat
+156,5833e52deffe9300018f8380,she buys a scratch card and wins a million ,expt3_2,sw_pos_ans3,1.0,pos,1.0,sally_wine,pos_mat
+157,5833e52deffe9300018f8380,the bank tell Lucy she is bankrupt so cannot get a loan,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+158,5833e52deffe9300018f8380,they report that her house is on fire and causing delays ,expt3_2,sd_neg_ans1,1.0,neg,1.0,sam_driving,neg_mat
+159,5833e52deffe9300018f8380,when she turns around the crusts are gone,expt3_2,other,1.0,neither,1.0,mary_food,neg_mat
+160,5873e83d1ed9d1000105084e,Bob gets a promotion.,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+161,5873e83d1ed9d1000105084e,Her colleagues were pleasant,expt3_2,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,neg_mat
+162,5873e83d1ed9d1000105084e,Sam finds a shortcut and makes it home,expt3_2,sd_pos_ans4,1.0,pos,1.0,sam_driving,neg_mat
+163,5873e83d1ed9d1000105084e,She can't find her keys again to go out to the supermarket,expt3_2,mf_neg_ans3,1.0,neg,1.0,mary_food,neg_mat
+164,5873e83d1ed9d1000105084e,The bank reject her loan application,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+165,5873e83d1ed9d1000105084e,The essay ends up being great,expt3_2,re_pos_ans7,1.0,pos,1.0,robert_essay,neg_mat
+166,5873e83d1ed9d1000105084e,The garden looks great after just having the grass cut,expt3_2,sg_pos_ans1,1.0,pos,1.0,steve_garden,pos_mat
+167,5873e83d1ed9d1000105084e,The lecturer is someone different,expt3_2,pc_pos_ans6,1.0,neither,1.0,peter_college,neg_mat
+168,5873e83d1ed9d1000105084e,The money blows away,expt3_2,ls_neg_ans3,1.0,neg,1.0,louise_shopping,pos_mat
+169,5873e83d1ed9d1000105084e,They don't have any wine left,expt3_2,sw_neg_ans1,1.0,neg,1.0,sally_wine,pos_mat
+170,587958ee2bd3c9000185a34c,He gets a raise.,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+171,587958ee2bd3c9000185a34c,"He has accidentally saved an earlier draft over his final draft, erasing hours of work.",expt3_1,re_neg_ans2,1.0,neg,1.0,robert_essay,pos_mat
+172,587958ee2bd3c9000185a34c,"Her husband surprises her with another bottle of wine, and flowers.",expt3_1,sw_pos_ans5,1.0,pos,1.0,sally_wine,neg_mat
+173,587958ee2bd3c9000185a34c,"She finds a car model very similar to her old, painted the colour she always wanted.",expt3_1,other,1.0,pos,1.0,lucy_loan,neg_mat
+174,587958ee2bd3c9000185a34c,She's gotten a large sum of money in her bank account as compensation for something.,expt3_1,ls_pos_ans2,1.0,pos,1.0,louise_shopping,neg_mat
+175,587958ee2bd3c9000185a34c,The lecture is being held by a different professor than expected.  His favourite professor is home sick.,expt3_1,pc_pos_ans6,1.0,neg,1.0,peter_college,pos_mat
+176,587958ee2bd3c9000185a34c,The meeting was actually in a different city.,expt3_1,bm_neg_ans6,1.0,neg,1.0,belinda_meeting,pos_mat
+177,587958ee2bd3c9000185a34c,"The next day, her keys have disappeared.",expt3_1,mf_neg_ans3,1.0,neg,1.0,mary_food,pos_mat
+178,587958ee2bd3c9000185a34c,The radio tells him there has been an accident further up the road.  He will be late home.,expt3_1,sd_neg_ans1,1.0,neg,1.0,sam_driving,pos_mat
+179,587958ee2bd3c9000185a34c,"When he finishes cutting the grass, he finds something that he had lost on the ground several weeks ago.  The overgrown grass had been concealing it.",expt3_1,sg_pos_ans3,1.0,pos,1.0,steve_garden,neg_mat
+180,587bfa12f89eee0001b31187,bob gets fired,expt3_2,bj_neg_ans1,1.0,neg,1.0,bob_job,pos_mat
+181,587bfa12f89eee0001b31187,he doesn't make it home,expt3_2,sd_neg_ans4,1.0,neg,1.0,sam_driving,neg_mat
+182,587bfa12f89eee0001b31187,he gets in an accident ,expt3_2,pc_neg_ans1,1.0,neg,1.0,peter_college,neg_mat
+183,587bfa12f89eee0001b31187,her colleagues are nice and aren't aggressive ,expt3_2,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,neg_mat
+184,587bfa12f89eee0001b31187,robert gets a high mark for his essay,expt3_2,re_pos_ans1,1.0,pos,1.0,robert_essay,neg_mat
+185,587bfa12f89eee0001b31187,she goes to draw money from the ATM and has no money,expt3_2,ls_neg_ans1,1.0,neg,1.0,louise_shopping,pos_mat
+186,587bfa12f89eee0001b31187,someone takes her keys,expt3_2,mf_neg_ans3,1.0,neg,1.0,mary_food,neg_mat
+187,587bfa12f89eee0001b31187,the bank won't give her a loan,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+188,587bfa12f89eee0001b31187,the lawnmower is broken,expt3_2,sg_neg_ans4,1.0,neg,1.0,steve_garden,pos_mat
+189,587bfa12f89eee0001b31187,the shop have no wine,expt3_2,sw_neg_ans1,1.0,neg,1.0,sally_wine,pos_mat
+190,593fe3916ee2c800016c097c,His boss gives Bob a raise and promotion without his having to ask.,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+191,593fe3916ee2c800016c097c,"Louise realises expensive clothes are a rip off and decides to save her money instead, apart from a small treat at Primark for doing so well.",expt3_2,ls_pos_ans5,1.0,pos,1.0,louise_shopping,pos_mat
+192,593fe3916ee2c800016c097c,"Lucy realises getting a loan when she has a car worth thousands is ridiculous, so she hangs up the phone, sells the old car and buys herself something almost new, because brand new cars depreciate immediately.",expt3_2,ll_pos_ans1,1.0,pos,1.0,lucy_loan,pos_mat
+193,593fe3916ee2c800016c097c,"Mary feels ill at the sight of pizza, so order herself a decent Chinese from Just eat.",expt3_2,mf_pos_ans2,1.0,pos,1.0,mary_food,neg_mat
+194,593fe3916ee2c800016c097c,"On the way her husband rings her and confesses he's been having an affair, so Sally buys Gin to drown her sorrows instead.",expt3_2,sw_neg_ans7,1.0,neg,1.0,sally_wine,pos_mat
+195,593fe3916ee2c800016c097c,"Peter actually makes it to class on time, which seemed physically impossible when he started off, but he's heck of a peddler.",expt3_2,pc_pos_ans1,1.0,pos,1.0,peter_college,neg_mat
+196,593fe3916ee2c800016c097c,"Robert realises no-one ever got a job from philosophy courses, so rang the college that night and changed his subject to something useful.",expt3_2,other,1.0,pos,1.0,robert_essay,neg_mat
+197,593fe3916ee2c800016c097c,"Steve hasn't used his lawn mower in so long, it has siezed up and rusted, so it won't start.",expt3_2,sg_neg_ans4,1.0,neg,1.0,steve_garden,pos_mat
+198,593fe3916ee2c800016c097c,The taxi driver turns out to be an old friend of Belinda's.,expt3_2,other,1.0,pos,1.0,belinda_meeting,neg_mat
+199,593fe3916ee2c800016c097c,"There has been an accident up ahead, it takes ages to clear, and Sam is stuck in the car for 4 hours.",expt3_2,sd_neg_ans1,1.0,neg,1.0,sam_driving,neg_mat
+200,5960d28c2fa2630001d87daf,All lights are on green,expt3_1,sd_pos_ans4,1.0,pos,1.0,sam_driving,pos_mat
+201,5960d28c2fa2630001d87daf,He realised several mistakes,expt3_1,re_neg_ans3,1.0,neg,1.0,robert_essay,pos_mat
+202,5960d28c2fa2630001d87daf,Her husband is there buying wine,expt3_1,sw_pos_ans5,1.0,pos,1.0,sally_wine,neg_mat
+203,5960d28c2fa2630001d87daf,His boss offered him a promotion,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+204,5960d28c2fa2630001d87daf,Not all flowers are dead,expt3_1,sg_pos_ans3,1.0,pos,1.0,steve_garden,neg_mat
+205,5960d28c2fa2630001d87daf,"Pizza wasn't for her, flat mate was saving it",expt3_1,mf_neg_ans5,1.0,neg,1.0,mary_food,pos_mat
+206,5960d28c2fa2630001d87daf,Sale at the store,expt3_1,ls_pos_ans4,1.0,pos,1.0,louise_shopping,neg_mat
+207,5960d28c2fa2630001d87daf,The bank said no.,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+208,5960d28c2fa2630001d87daf,The professor told him his work had been sub standard,expt3_1,pc_neg_ans5,1.0,neg,1.0,peter_college,pos_mat
+209,5960d28c2fa2630001d87daf,The taxi got stuck in traffic,expt3_1,bm_neg_ans1,1.0,neg,1.0,belinda_meeting,pos_mat
+210,59839cb9554956000142d95f,And finds no mistakes,expt3_1,re_pos_ans7,1.0,pos,1.0,robert_essay,pos_mat
+211,59839cb9554956000142d95f,And is informed that further up the road is a traffic jam,expt3_1,sd_neg_ans1,1.0,neg,1.0,sam_driving,pos_mat
+212,59839cb9554956000142d95f,But they did not have the wine she wanted,expt3_1,sw_neg_ans1,1.0,neg,1.0,sally_wine,neg_mat
+213,59839cb9554956000142d95f,He made the lecture on time,expt3_1,pc_pos_ans1,1.0,pos,1.0,peter_college,pos_mat
+214,59839cb9554956000142d95f,She had food left out for her,expt3_1,mf_pos_ans2,1.0,pos,1.0,mary_food,pos_mat
+215,59839cb9554956000142d95f,They didnt cut her pay,expt3_1,ls_pos_ans2,1.0,pos,1.0,louise_shopping,neg_mat
+216,59839cb9554956000142d95f,They invited her to lunch,expt3_1,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,pos_mat
+217,59839cb9554956000142d95f,They said yes she can have a loan,expt3_1,ll_pos_ans2,1.0,pos,1.0,lucy_loan,neg_mat
+218,59839cb9554956000142d95f,but it would not start working,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+219,59839cb9554956000142d95f,they give him a payrise,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+220,598b453278c7d500012cc0bb,He hits a pothole and falls off his bike injuring his knee. He is late for his lecture,expt3_1,pc_neg_ans1,1.0,neg,1.0,peter_college,pos_mat
+221,598b453278c7d500012cc0bb,He realises he has read the essay question incorrectly and so needs to write his essay again ,expt3_1,re_neg_ans3,1.0,neg,1.0,robert_essay,pos_mat
+222,598b453278c7d500012cc0bb,Her colleagues are not very welcoming and are in fact unfriendly ,expt3_1,bm_neg_ans8,1.0,neg,1.0,belinda_meeting,pos_mat
+223,598b453278c7d500012cc0bb,Her keys fall off the table and she spends a long time looking for them the next morning before work,expt3_1,mf_neg_ans3,1.0,neg,1.0,mary_food,pos_mat
+224,598b453278c7d500012cc0bb,His boss tells him that she (his boss) has just been fired and cannot discuss Bob's job satisfaction with him. ,expt3_1,other,1.0,neg,1.0,bob_job,neg_mat
+225,598b453278c7d500012cc0bb,His lawnmower refuses to start so he is unable to mow the grass,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+226,598b453278c7d500012cc0bb,She is not allowed withdraw money because she has no money left in her account following the pay cut.,expt3_1,ls_neg_ans1,1.0,neg,1.0,louise_shopping,neg_mat
+227,598b453278c7d500012cc0bb,She meets her husband  coming out of the shop with a bottle of wine for her as an apology,expt3_1,sw_pos_ans5,1.0,pos,1.0,sally_wine,neg_mat
+228,598b453278c7d500012cc0bb,The bank offer her a loan at a better rate than she expected so she can buy a better car at a different car dealers,expt3_1,ll_pos_ans2,1.0,pos,1.0,lucy_loan,neg_mat
+229,598b453278c7d500012cc0bb,he hears on the traffic report of an accident up ahead. He is able to come off the motorway at the next junction missing the traffic jam and getting home in time,expt3_1,sd_pos_ans3,1.0,pos,1.0,sam_driving,pos_mat
+230,598cb78ab2bf030001c4ef4b,He gets a high grade!,expt3_2,re_pos_ans1,1.0,pos,1.0,robert_essay,neg_mat
+231,598cb78ab2bf030001c4ef4b,He gets a promotion. ,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+232,598cb78ab2bf030001c4ef4b,Peter is praised by the lecturer.,expt3_2,pc_pos_ans5,1.0,pos,1.0,peter_college,neg_mat
+233,598cb78ab2bf030001c4ef4b,She gets accepted for the loan,expt3_2,ll_pos_ans2,1.0,pos,1.0,lucy_loan,pos_mat
+234,598cb78ab2bf030001c4ef4b,She orders takeaway,expt3_2,mf_pos_ans2,1.0,pos,1.0,mary_food,neg_mat
+235,598cb78ab2bf030001c4ef4b,The ATM swallows her card. ,expt3_2,ls_neg_ans2,1.0,neg,1.0,louise_shopping,pos_mat
+236,598cb78ab2bf030001c4ef4b,The corner shop is closed. ,expt3_2,sw_neg_ans5,1.0,neg,1.0,sally_wine,pos_mat
+237,598cb78ab2bf030001c4ef4b,"The meeting venue has changed, and no one told her. ",expt3_2,other,1.0,neg,1.0,belinda_meeting,neg_mat
+238,598cb78ab2bf030001c4ef4b,The road clears suddenly and he gets home in time. ,expt3_2,sd_pos_ans3,1.0,pos,1.0,sam_driving,neg_mat
+239,598cb78ab2bf030001c4ef4b,his mower doesn't work,expt3_2,sg_neg_ans4,1.0,neg,1.0,steve_garden,pos_mat
+240,5996f18c6b939900012d9f58,Bobs job might be in jeapordy.,expt3_2,bj_neg_ans1,1.0,neg,1.0,bob_job,pos_mat
+241,5996f18c6b939900012d9f58,He accidentally deletes his essay.,expt3_2,re_neg_ans2,1.0,neg,1.0,robert_essay,neg_mat
+242,5996f18c6b939900012d9f58,Her loan is declined.,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+243,5996f18c6b939900012d9f58,His lawnmower does not work.,expt3_2,sg_neg_ans4,1.0,neg,1.0,steve_garden,pos_mat
+244,5996f18c6b939900012d9f58,His lecturer is off sick.,expt3_2,pc_pos_ans6,1.0,neither,1.0,peter_college,neg_mat
+245,5996f18c6b939900012d9f58,She trips.,expt3_2,other,1.0,neg,1.0,mary_food,neg_mat
+246,5996f18c6b939900012d9f58,The ATM ate her card.,expt3_2,ls_neg_ans2,1.0,neg,1.0,louise_shopping,pos_mat
+247,5996f18c6b939900012d9f58,The corner shop is closed.,expt3_2,sw_neg_ans5,1.0,neg,1.0,sally_wine,pos_mat
+248,5996f18c6b939900012d9f58,The taxi breaks down.,expt3_2,bm_neg_ans1,1.0,neg,1.0,belinda_meeting,neg_mat
+249,5996f18c6b939900012d9f58,There is a flood up ahead.,expt3_2,sd_neg_ans1,1.0,neg,1.0,sam_driving,neg_mat
+250,5998305dbbe84800017965d9,He falls off his bike and is late for his lecture.,expt3_1,pc_neg_ans1,1.0,neg,1.0,peter_college,pos_mat
+251,5998305dbbe84800017965d9,He realises that he has left something out of the essay.,expt3_1,re_neg_ans3,1.0,neg,1.0,robert_essay,pos_mat
+252,5998305dbbe84800017965d9,Her husband surprises her by being at the shop with a bottle of wine in his hand.,expt3_1,sw_pos_ans5,1.0,pos,1.0,sally_wine,neg_mat
+253,5998305dbbe84800017965d9,His boss offers him a promotion.,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+254,5998305dbbe84800017965d9,His lawnmower is broken and he needs to buy a new one.,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+255,5998305dbbe84800017965d9,She changes her mind and shops in a budget store instead.,expt3_1,ls_pos_ans5,1.0,pos,1.0,louise_shopping,neg_mat
+256,5998305dbbe84800017965d9,She was sacked.,expt3_1,other,1.0,neg,1.0,belinda_meeting,pos_mat
+257,5998305dbbe84800017965d9,The bank refuses her loan.,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+258,5998305dbbe84800017965d9,The flatmate calls and tells her not to eat the pizza!,expt3_1,mf_neg_ans5,1.0,neg,1.0,mary_food,pos_mat
+259,5998305dbbe84800017965d9,The radio reports that there is an accident up ahead and Sam will be delayed.,expt3_1,sd_neg_ans1,1.0,neg,1.0,sam_driving,pos_mat
+260,5999aa3805a0e30001f1ffa6,He doesn't get home in time because he didn't plan for traffic ,expt3_2,sd_neg_ans1,1.0,neg,1.0,sam_driving,neg_mat
+261,5999aa3805a0e30001f1ffa6,He gets a really good grade for the essay ,expt3_2,re_pos_ans1,1.0,pos,1.0,robert_essay,neg_mat
+262,5999aa3805a0e30001f1ffa6,Her colleagues were not aggressive and she actually had a good time ,expt3_2,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,neg_mat
+263,5999aa3805a0e30001f1ffa6,His boss is unhappy with him and his work ,expt3_2,bj_neg_ans2,1.0,neg,1.0,bob_job,pos_mat
+264,5999aa3805a0e30001f1ffa6,She eats the pizza crusts because there is nothing else ,expt3_2,other,1.0,neg,1.0,mary_food,neg_mat
+265,5999aa3805a0e30001f1ffa6,"She ends up keeping her old car, when she had planned to get rid of it ",expt3_2,other,1.0,neither,1.0,lucy_loan,pos_mat
+266,5999aa3805a0e30001f1ffa6,The lawnmower is broken ,expt3_2,sg_neg_ans4,1.0,neg,1.0,steve_garden,pos_mat
+267,5999aa3805a0e30001f1ffa6,The professor did not sneer at Peter's contributions in this lecture ,expt3_2,pc_pos_ans5,1.0,pos,1.0,peter_college,neg_mat
+268,5999aa3805a0e30001f1ffa6,The shop is closed so she cannot buy the wine ,expt3_2,sw_neg_ans5,1.0,neg,1.0,sally_wine,pos_mat
+269,5999aa3805a0e30001f1ffa6,The store is closed when she gets there ,expt3_2,ls_neg_ans5,1.0,neg,1.0,louise_shopping,pos_mat
+270,59a22f3e6ba0f90001f33d4c,but her request is rejected,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+271,59a22f3e6ba0f90001f33d4c,but mice have chewed through the wire,expt3_2,sg_neg_ans4,1.0,neg,1.0,steve_garden,pos_mat
+272,59a22f3e6ba0f90001f33d4c,gets a promotion ,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+273,59a22f3e6ba0f90001f33d4c,he flatmate had saved her some pizza,expt3_2,mf_pos_ans1,1.0,pos,1.0,mary_food,neg_mat
+274,59a22f3e6ba0f90001f33d4c,her colleagues were friendly,expt3_2,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,neg_mat
+275,59a22f3e6ba0f90001f33d4c,realises he hasn't done the correct question ,expt3_2,re_neg_ans3,1.0,neg,1.0,robert_essay,neg_mat
+276,59a22f3e6ba0f90001f33d4c,sam found an alternative route,expt3_2,sd_pos_ans4,1.0,pos,1.0,sam_driving,neg_mat
+277,59a22f3e6ba0f90001f33d4c,"she bought the wine, but dropped it on the way home",expt3_2,sw_neg_ans3,1.0,neg,1.0,sally_wine,pos_mat
+278,59a22f3e6ba0f90001f33d4c,she had more money in her account than expected ,expt3_2,ls_pos_ans2,1.0,pos,1.0,louise_shopping,pos_mat
+279,59a22f3e6ba0f90001f33d4c,the chain falls off and he misses his class,expt3_2,pc_neg_ans2,1.0,neg,1.0,peter_college,neg_mat
+280,59d519c6c732930001d88aab,He missed a few unseen typos.,expt3_1,re_neg_ans3,1.0,neg,1.0,robert_essay,pos_mat
+281,59d519c6c732930001d88aab,His boss promotes him to a better work environment and pay.,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+282,59d519c6c732930001d88aab,Lucy gets refused a loan.,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+283,59d519c6c732930001d88aab,Peter's bike tyre went flat and ended up being delayed.,expt3_1,pc_neg_ans2,1.0,neg,1.0,peter_college,pos_mat
+284,59d519c6c732930001d88aab,She doesn't have enough money in the ATM,expt3_1,ls_neg_ans1,1.0,neg,1.0,louise_shopping,neg_mat
+285,59d519c6c732930001d88aab,She had a half pizza left for her she wasn't expecting.,expt3_1,mf_pos_ans3,1.0,pos,1.0,mary_food,pos_mat
+286,59d519c6c732930001d88aab,The lawnmower did not power on.,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+287,59d519c6c732930001d88aab,The shop was closed.,expt3_1,sw_neg_ans5,1.0,neg,1.0,sally_wine,neg_mat
+288,59d519c6c732930001d88aab,The traffic reports no problems.,expt3_1,sd_pos_ans3,1.0,neg,1.0,sam_driving,pos_mat
+289,59d519c6c732930001d88aab,There was a car accident on the way and Belinda will be delayed.,expt3_1,bm_neg_ans1,1.0,neg,1.0,belinda_meeting,pos_mat
+290,59e4fc9a62637600014a7692,he  decides the whole essay is rubbish and re does it,expt3_1,re_neg_ans3,1.0,neg,1.0,robert_essay,pos_mat
+291,59e4fc9a62637600014a7692,he has an accident,expt3_1,pc_neg_ans1,1.0,neg,1.0,peter_college,pos_mat
+292,59e4fc9a62637600014a7692,he left his job,expt3_1,bj_neg_ans3,1.0,neg,1.0,bob_job,neg_mat
+293,59e4fc9a62637600014a7692,she bumps into an old friend,expt3_1,sw_pos_ans1,1.0,pos,1.0,sally_wine,neg_mat
+294,59e4fc9a62637600014a7692,she found lots of money in her account,expt3_1,ls_pos_ans2,1.0,pos,1.0,louise_shopping,neg_mat
+295,59e4fc9a62637600014a7692,she loses her keys,expt3_1,mf_neg_ans3,1.0,neg,1.0,mary_food,pos_mat
+296,59e4fc9a62637600014a7692,the bank says no,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+297,59e4fc9a62637600014a7692,the lawnmower doesnt work,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+298,59e4fc9a62637600014a7692,the plane crashed,expt3_1,bm_neg_ans2,1.0,neg,1.0,belinda_meeting,pos_mat
+299,59e4fc9a62637600014a7692,theres been a massive accident up ahead causing hour long delays,expt3_1,sd_neg_ans1,1.0,neg,1.0,sam_driving,pos_mat
+300,5a0d8077f2e3460001edb910,Bob decided he'd had enough and quit right then to travel the world ,expt3_1,bj_neg_ans3,1.0,neither,1.0,bob_job,neg_mat
+301,5a0d8077f2e3460001edb910,He accidentally dozes off before finishing his proofread,expt3_1,re_neg_ans4,1.0,neg,1.0,robert_essay,pos_mat
+302,5a0d8077f2e3460001edb910,Her taxi is involved in a collision and she's seriously injured.,expt3_1,bm_neg_ans1,1.0,neg,1.0,belinda_meeting,pos_mat
+303,5a0d8077f2e3460001edb910,"In his rush, he hits a pothole and falls over injured from not putting on his helmet.",expt3_1,pc_neg_ans1,1.0,neg,1.0,peter_college,pos_mat
+304,5a0d8077f2e3460001edb910,"She buys the bottle of wine, drinks the entire thing and tells her husband to piss off",expt3_1,other,1.0,neg,1.0,sally_wine,neg_mat
+305,5a0d8077f2e3460001edb910,She takes what she has drew from the ATM and goes and blows it all at the clothing store to make herself feel better,expt3_1,other,1.0,pos,1.0,louise_shopping,neg_mat
+306,5a0d8077f2e3460001edb910,The bank denies her a loan because her credit is bad.,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+307,5a0d8077f2e3460001edb910,a big snake slithers across the garden ,expt3_1,sg_neg_ans8,1.0,neg,1.0,steve_garden,neg_mat
+308,5a0d8077f2e3460001edb910,"he sees a few of his friends walking to a pub, decides to park his car and join them ",expt3_1,other,1.0,pos,1.0,sam_driving,pos_mat
+309,5a0d8077f2e3460001edb910,she eats her flat mate's pizza as well as some stuff in the cupboard because she's so starved,expt3_1,mf_neg_ans5,1.0,neg,1.0,mary_food,pos_mat
+310,5a15f9a0844c7a00015e5bca,His boss sacked him,expt3_1,bj_neg_ans1,1.0,neg,1.0,bob_job,neg_mat
+311,5a15f9a0844c7a00015e5bca,"he accidentally mashed up a hedgehog in his lawn mower blades, he didnt see it as the grass was so long",expt3_1,sg_neg_ans8,1.0,neg,1.0,steve_garden,neg_mat
+312,5a15f9a0844c7a00015e5bca,he split coffee all over the essay and had to start again,expt3_1,other,1.0,neg,1.0,robert_essay,pos_mat
+313,5a15f9a0844c7a00015e5bca,she came to her senses and decided to go to Oxfam instead,expt3_1,ls_pos_ans5,1.0,pos,1.0,louise_shopping,neg_mat
+314,5a15f9a0844c7a00015e5bca,she gets pulled over by the police for speeding,expt3_1,sd_neg_ans4,1.0,neg,1.0,sam_driving,pos_mat
+315,5a15f9a0844c7a00015e5bca,she leaves the pizza and cooks something else,expt3_1,mf_pos_ans2,1.0,pos,1.0,mary_food,pos_mat
+316,5a15f9a0844c7a00015e5bca,"she thought ""sod my husband"" and bought a much more expensive bottle of champagne",expt3_1,sw_neg_ans2,1.0,neither,1.0,sally_wine,neg_mat
+317,5a15f9a0844c7a00015e5bca,the bank says no.,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+318,5a15f9a0844c7a00015e5bca,the bike gets a puncture so Peter misses the lecture,expt3_1,pc_neg_ans2,1.0,neg,1.0,peter_college,pos_mat
+319,5a15f9a0844c7a00015e5bca,the taxi broke down,expt3_1,bm_neg_ans1,1.0,neg,1.0,belinda_meeting,pos_mat
+320,5a2add709408dc00016f57d3,Bob gets a promotion ,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+321,5a2add709408dc00016f57d3,Even mmore money starts flying out of the atm ,expt3_1,ls_pos_ans1,1.0,pos,1.0,louise_shopping,neg_mat
+322,5a2add709408dc00016f57d3,He notices a mistake he cant change ,expt3_1,re_neg_ans3,1.0,neg,1.0,robert_essay,pos_mat
+323,5a2add709408dc00016f57d3,Her kes goes missing ,expt3_1,mf_neg_ans3,1.0,neg,1.0,mary_food,pos_mat
+324,5a2add709408dc00016f57d3,The corner shop does not have any wine left ,expt3_1,sw_neg_ans1,1.0,neg,1.0,sally_wine,neg_mat
+325,5a2add709408dc00016f57d3,The lawn mower will not start,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+326,5a2add709408dc00016f57d3,The meeting was cancelled,expt3_1,bm_neg_ans3,1.0,neg,1.0,belinda_meeting,pos_mat
+327,5a2add709408dc00016f57d3,There is a traffic jam,expt3_1,sd_neg_ans1,1.0,neg,1.0,sam_driving,pos_mat
+328,5a2add709408dc00016f57d3,peter falls because he is rushing on the bike ,expt3_1,pc_neg_ans1,1.0,neg,1.0,peter_college,pos_mat
+329,5a2add709408dc00016f57d3,the bank will not give lucy a loan ,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+330,5a343cbb50833c0001ee931c,He crashes on his bike,expt3_2,pc_neg_ans1,1.0,neg,1.0,peter_college,neg_mat
+331,5a343cbb50833c0001ee931c,He gets fired,expt3_2,bj_neg_ans1,1.0,neg,1.0,bob_job,pos_mat
+332,5a343cbb50833c0001ee931c,He has made lots of mistakes and has to start it again,expt3_2,re_neg_ans3,1.0,neg,1.0,robert_essay,neg_mat
+333,5a343cbb50833c0001ee931c,He holds up traffic checking his radio,expt3_2,other,1.0,neg,1.0,sam_driving,neg_mat
+334,5a343cbb50833c0001ee931c,Her colleagues were not there,expt3_2,other,1.0,neither,1.0,belinda_meeting,neg_mat
+335,5a343cbb50833c0001ee931c,She gets robbed,expt3_2,ls_neg_ans3,1.0,neg,1.0,louise_shopping,pos_mat
+336,5a343cbb50833c0001ee931c,Somebody sees the keys and breaks in,expt3_2,mf_neg_ans3,1.0,neg,1.0,mary_food,neg_mat
+337,5a343cbb50833c0001ee931c,The car breaks down after she has bought it,expt3_2,other,1.0,neg,1.0,lucy_loan,pos_mat
+338,5a343cbb50833c0001ee931c,The lawnmower was not working,expt3_2,sg_neg_ans4,1.0,neg,1.0,steve_garden,pos_mat
+339,5a343cbb50833c0001ee931c,The shop had no wine,expt3_2,sw_neg_ans1,1.0,neg,1.0,sally_wine,pos_mat
+340,5a4e30c8c64cfe00011ca946,Bob's boss offered him a promotion,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+341,5a4e30c8c64cfe00011ca946,he discovers the lawnmower is broken,expt3_2,sg_neg_ans4,1.0,neg,1.0,steve_garden,pos_mat
+342,5a4e30c8c64cfe00011ca946,he falls asleep,expt3_2,re_neg_ans4,1.0,neg,1.0,robert_essay,neg_mat
+343,5a4e30c8c64cfe00011ca946,her flat mate catches her eating pizza crusts,expt3_2,mf_neg_ans5,1.0,neg,1.0,mary_food,neg_mat
+344,5a4e30c8c64cfe00011ca946,she had less money in her account than expected,expt3_2,ls_neg_ans1,1.0,neg,1.0,louise_shopping,pos_mat
+345,5a4e30c8c64cfe00011ca946,somebody crashes into the back of his car,expt3_2,sd_neg_ans3,1.0,neg,1.0,sam_driving,neg_mat
+346,5a4e30c8c64cfe00011ca946,the bank would not lend lucy any money,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+347,5a4e30c8c64cfe00011ca946,"the meeting went well, and her colleagues were kind",expt3_2,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,neg_mat
+348,5a4e30c8c64cfe00011ca946,the shop is closed,expt3_2,sw_neg_ans5,1.0,neg,1.0,sally_wine,pos_mat
+349,5a4e30c8c64cfe00011ca946,there is a different lecturer today,expt3_2,pc_pos_ans6,1.0,neither,1.0,peter_college,neg_mat
+350,5a67124f35f26b0001495d6b,Boss offers him a promotion,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+351,5a67124f35f26b0001495d6b,Doorbell rings,expt3_1,other,1.0,neither,1.0,mary_food,pos_mat
+352,5a67124f35f26b0001495d6b,car breaks down,expt3_1,other,1.0,neg,1.0,sam_driving,pos_mat
+353,5a67124f35f26b0001495d6b,her husband has blocked her from using their bank account,expt3_1,sw_neg_ans7,1.0,neg,1.0,sally_wine,neg_mat
+354,5a67124f35f26b0001495d6b,his computer crashes and he loses his essay,expt3_1,re_neg_ans2,1.0,neg,1.0,robert_essay,pos_mat
+355,5a67124f35f26b0001495d6b,insufficient funds to withdraw money,expt3_1,ls_neg_ans1,1.0,neg,1.0,louise_shopping,neg_mat
+356,5a67124f35f26b0001495d6b,lawnmower is broken ,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+357,5a67124f35f26b0001495d6b,meeting was rearranged for another day,expt3_1,bm_neg_ans3,1.0,neg,1.0,belinda_meeting,pos_mat
+358,5a67124f35f26b0001495d6b,peter gets in a traffic accident,expt3_1,pc_neg_ans1,1.0,neg,1.0,peter_college,pos_mat
+359,5a67124f35f26b0001495d6b,she is denied a loan,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+360,5a7871aeb093f80001a75e5c,Bob's boss offers him an on the spot promotion,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+361,5a7871aeb093f80001a75e5c,He finds a family of frogs in the middle of the grass,expt3_2,sg_pos_ans3,1.0,pos,1.0,steve_garden,pos_mat
+362,5a7871aeb093f80001a75e5c,Lucy is offered a 0% interest loan over a sustained period of time to allow her to borrow the money required,expt3_2,ll_pos_ans2,1.0,pos,1.0,lucy_loan,pos_mat
+363,5a7871aeb093f80001a75e5c,Peter rides over some broken glass on his way in to college and ends up with a flat tyre,expt3_2,pc_neg_ans2,1.0,neg,1.0,peter_college,neg_mat
+364,5a7871aeb093f80001a75e5c,Robert realises he has done an essay on a similar topic before and is able to find the piece of work and use elements of this to improve his essay,expt3_2,re_pos_ans2,1.0,pos,1.0,robert_essay,neg_mat
+365,5a7871aeb093f80001a75e5c,She notices ants crawling over the pizza crusts,expt3_2,mf_neg_ans2,1.0,neg,1.0,mary_food,neg_mat
+366,5a7871aeb093f80001a75e5c,The ATM swallows her card and she is unable to take out the money,expt3_2,ls_neg_ans2,1.0,neg,1.0,louise_shopping,pos_mat
+367,5a7871aeb093f80001a75e5c,The meeting venue had changed which left Belinda sat waiting at the meeting venue unsure of where her colleagues were,expt3_2,bm_neg_ans6,1.0,neg,1.0,belinda_meeting,neg_mat
+368,5a7871aeb093f80001a75e5c,The radio informs Sam of an accident ahead however it is now clearing and he makes it home in time for the soccer match,expt3_2,sd_pos_ans3,1.0,pos,1.0,sam_driving,neg_mat
+369,5a7871aeb093f80001a75e5c,They have completely ran out of wine and she is left with only beer as an option,expt3_2,sw_neg_ans1,1.0,neg,1.0,sally_wine,pos_mat
+370,5a7cb83a000dab00018c530b,Bob gets a promotion,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+371,5a7cb83a000dab00018c530b,he cycles to a museum instead and spends the day there,expt3_1,other,1.0,pos,1.0,peter_college,pos_mat
+372,5a7cb83a000dab00018c530b,he finds a corpse in the garden,expt3_1,sg_neg_ans8,1.0,neg,1.0,steve_garden,neg_mat
+373,5a7cb83a000dab00018c530b,he gets distracted and never finishes the essay,expt3_1,other,1.0,neg,1.0,robert_essay,pos_mat
+374,5a7cb83a000dab00018c530b,her bank account has been emptied by her ex-husband,expt3_1,other,1.0,neg,1.0,lucy_loan,neg_mat
+375,5a7cb83a000dab00018c530b,she buys a painting instead,expt3_1,ls_pos_ans5,1.0,pos,1.0,louise_shopping,neg_mat
+376,5a7cb83a000dab00018c530b,she hears a strange announcement: ufo has landed in florida,expt3_1,other,1.0,neg,1.0,sam_driving,pos_mat
+377,5a7cb83a000dab00018c530b,the flatmate has disappeared,expt3_1,other,1.0,neg,1.0,mary_food,pos_mat
+378,5a7cb83a000dab00018c530b,the venue its deserted,expt3_1,other,1.0,neg,1.0,belinda_meeting,pos_mat
+379,5a7cb83a000dab00018c530b,they don't have any wine,expt3_1,sw_neg_ans1,1.0,neg,1.0,sally_wine,neg_mat
+380,5abae3c447a9f7000153c531,He runs off the road while searching for a station.,expt3_1,sd_neg_ans3,1.0,neg,1.0,sam_driving,pos_mat
+381,5abae3c447a9f7000153c531,Her credit is too poor for a loan.,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+382,5abae3c447a9f7000153c531,Her husband was okay with the wine purchase because he's a drunk.,expt3_1,other,1.0,pos,1.0,sally_wine,neg_mat
+383,5abae3c447a9f7000153c531,His boss promoted him.,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+384,5abae3c447a9f7000153c531,His computer crashes and he didn't save his work.,expt3_1,re_neg_ans2,1.0,neg,1.0,robert_essay,pos_mat
+385,5abae3c447a9f7000153c531,She bought more than she could afford.,expt3_1,ls_neg_ans1,1.0,neg,1.0,louise_shopping,neg_mat
+386,5abae3c447a9f7000153c531,The lawnmower won't start.,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+387,5abae3c447a9f7000153c531,The meeting was canceled and she missed the notification.,expt3_1,bm_neg_ans3,1.0,neg,1.0,belinda_meeting,pos_mat
+388,5abae3c447a9f7000153c531,The pizza wasn't left for her and her roommate gets upset.,expt3_1,mf_neg_ans5,1.0,neg,1.0,mary_food,pos_mat
+389,5abae3c447a9f7000153c531,The professor called in sick.,expt3_1,pc_pos_ans6,1.0,neither,1.0,peter_college,pos_mat
+390,5ad115d47677430001c8fe5c,And she catches a shoplifter,expt3_1,other,1.0,pos,1.0,sally_wine,neg_mat
+391,5ad115d47677430001c8fe5c,And the dog eats the keys,expt3_1,mf_neg_ans3,1.0,neg,1.0,mary_food,pos_mat
+392,5ad115d47677430001c8fe5c,Finds out his flatmate who is also taking philosphy has written an essay on the same subject.,expt3_1,other,1.0,pos,1.0,robert_essay,pos_mat
+393,5ad115d47677430001c8fe5c,Finds the venue has been changed to somewhere better,expt3_1,bm_pos_ans2,1.0,pos,1.0,belinda_meeting,pos_mat
+394,5ad115d47677430001c8fe5c,His lawnmower wont start as it needs more fuel,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+395,5ad115d47677430001c8fe5c,Peter is asked to come up the front and help with the lecture,expt3_1,pc_pos_ans5,1.0,pos,1.0,peter_college,pos_mat
+396,5ad115d47677430001c8fe5c,"She cant draw money, her account is too low",expt3_1,ls_neg_ans1,1.0,neg,1.0,louise_shopping,neg_mat
+397,5ad115d47677430001c8fe5c,She cant get the loan,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+398,5ad115d47677430001c8fe5c,They give him a wage rise and promotion,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+399,5ad115d47677430001c8fe5c,he witnesses an accident and is delayed,expt3_1,sd_neg_ans1,1.0,neg,1.0,sam_driving,pos_mat
+400,5ae09751e0feeb0001caf94d,As Steve takes out the lawnmower his neighbours all offer to help clear his garden and between them although it takes them a few hours they tidy up his garden and then he gives them a well deserved cup of tea and a slice of cake.,expt3_2,other,1.0,pos,1.0,steve_garden,pos_mat
+401,5ae09751e0feeb0001caf94d,Bobs Boss tells him that the company is in terrible trouble financially and he is going to have let him go and gives him a month notice before he loses his job.,expt3_2,bj_neg_ans1,1.0,neg,1.0,bob_job,pos_mat
+402,5ae09751e0feeb0001caf94d,Mary's flat mate returns home from work and returns her keys to her telling her to be more careful where she leaves them next time.,expt3_2,mf_neg_ans3,1.0,neg,1.0,mary_food,neg_mat
+403,5ae09751e0feeb0001caf94d,"Peter rides really fast gets to college with plenty of time, reads up on the lecture and is able to make a great contribution in class and even his Professor is impressed.",expt3_2,pc_pos_ans1,1.0,pos,1.0,peter_college,neg_mat
+404,5ae09751e0feeb0001caf94d,"Robert proofreads his essay and submits it for the course, the teacher says it is some of the best work he has ever seen and gives him a top mark.",expt3_2,re_pos_ans1,1.0,pos,1.0,robert_essay,neg_mat
+405,5ae09751e0feeb0001caf94d,Sally walks into the shop and sees her husband in there kissing another woman.,expt3_2,sw_neg_ans7,1.0,neg,1.0,sally_wine,pos_mat
+406,5ae09751e0feeb0001caf94d,The bank refuse to give Lucy a loan for a new car as she has no job and a bad credit history.,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+407,5ae09751e0feeb0001caf94d,The sun comes out and the traffic clears and Sam is able to drive home and watch the match on TV.,expt3_2,sd_pos_ans6,1.0,pos,1.0,sam_driving,neg_mat
+408,5ae09751e0feeb0001caf94d,Upon withdrawing money from the ATM she finds she has no money left in her account the rest of her money has disappeared and she has to contact her bank.,expt3_2,ls_neg_ans1,1.0,neg,1.0,louise_shopping,pos_mat
+409,5ae09751e0feeb0001caf94d,"When the taxi arrives at the venue, it is a luxury hotel all her colleagues are kind to her at the meeting and Belinda enjoys the meeting.",expt3_2,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,neg_mat
+410,5ae473cea639c900013efca4,He realised that he had forgotten to write the conclusion.,expt3_1,re_neg_ans3,1.0,neg,1.0,robert_essay,pos_mat
+411,5ae473cea639c900013efca4,He was in such a rush that he didn't stop at the traffic lights and he ran into a pedestrian crossing the road which made him late.,expt3_1,pc_neg_ans1,1.0,neg,1.0,peter_college,pos_mat
+412,5ae473cea639c900013efca4,They have been watching and testing Bob and they decided to give him a pay rise and more responsibility.,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+413,5ae473cea639c900013efca4,"To find that a competition she had entered earlier that week had paid her £5,000 and so she was able to go shopping where she wanted.",expt3_1,ls_pos_ans2,1.0,pos,1.0,louise_shopping,neg_mat
+414,5ae473cea639c900013efca4,When she got there she found out that she had got a promotion and was presented with a present and card.,expt3_1,bm_pos_ans2,1.0,pos,1.0,belinda_meeting,pos_mat
+415,5ae473cea639c900013efca4,but find that mice have chewed through the wire so he needs a new one.,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+416,5ae473cea639c900013efca4,but there's a crash up ahead he has to switch his sat nav on and redirect quickly.,expt3_1,sd_neg_ans1,1.0,neg,1.0,sam_driving,pos_mat
+417,5ae473cea639c900013efca4,she gets an item that hasn't been scanned for free.,expt3_1,sw_pos_ans3,1.0,pos,1.0,sally_wine,neg_mat
+418,5ae473cea639c900013efca4,someone runs in steals her keys and drives off with her car.,expt3_1,mf_neg_ans3,1.0,neg,1.0,mary_food,pos_mat
+419,5ae473cea639c900013efca4,someone who wants a car to fix offered her more money for her car so she was able to sell it and make some money towards her new car.,expt3_1,ll_pos_ans1,1.0,pos,1.0,lucy_loan,neg_mat
+420,5af5e288e19f8c00019e3d09,His boss apologises and offers him a promotion.,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+421,5af5e288e19f8c00019e3d09,a local kid offers to do it for him for a reasonable amount of money. ,expt3_1,sg_pos_ans2,1.0,pos,1.0,steve_garden,neg_mat
+422,5af5e288e19f8c00019e3d09,criminals have placed a large amount of money in her account and she is now a millionaire,expt3_1,ls_pos_ans2,1.0,pos,1.0,louise_shopping,neg_mat
+423,5af5e288e19f8c00019e3d09,he accidently deletes it,expt3_1,re_neg_ans2,1.0,neg,1.0,robert_essay,pos_mat
+424,5af5e288e19f8c00019e3d09,her colleagues have thrown her a giant street party ,expt3_1,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,pos_mat
+425,5af5e288e19f8c00019e3d09,"she finds her husband with a puppy as an apology for fighting, the corner shop have just confirmed his lotto win. ",expt3_1,sw_pos_ans5,1.0,pos,1.0,sally_wine,neg_mat
+426,5af5e288e19f8c00019e3d09,the bank tell her she cant have a loan because her credit has been destroyed by her estranged twin sister. ,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+427,5af5e288e19f8c00019e3d09,"the keys fall through the table, which has been sold by her flat mate to buy the pizza",expt3_1,mf_neg_ans3,1.0,neg,1.0,mary_food,pos_mat
+428,5af5e288e19f8c00019e3d09,the lecturer actually showed up for a lecture. ,expt3_1,pc_pos_ans2,1.0,pos,1.0,peter_college,pos_mat
+429,5af5e288e19f8c00019e3d09,there is a fun run near his house and the roads there are blocked so he chooses to go to the pub to watch football instead. ,expt3_1,sd_neg_ans1,1.0,pos,1.0,sam_driving,pos_mat
+430,5afc49240b2d5f00015697ad,A mouse crawls out of her kitchen cupboard and jumps on the table. It knocks her keys off the table and runs away. Mary can't go for take out food now because she can't find her keys. ,expt3_2,mf_neg_ans3,1.0,neg,1.0,mary_food,neg_mat
+431,5afc49240b2d5f00015697ad,Bob quits his job and goes to live on an island by himself. ,expt3_2,bj_neg_ans3,1.0,neg,1.0,bob_job,pos_mat
+432,5afc49240b2d5f00015697ad,"It's winter, why are the flowers blooming?!",expt3_2,other,1.0,neither,1.0,steve_garden,pos_mat
+433,5afc49240b2d5f00015697ad,Lucy changes her minds and decides a moped is far better for her needs. She asks the bank if they'll help her buy a moped. ,expt3_2,other,1.0,neither,1.0,lucy_loan,pos_mat
+434,5afc49240b2d5f00015697ad,"Peter gets knocked down by a bus. He lives, but he will never return to college to be sneered at by his weird Professor. ",expt3_2,pc_neg_ans1,1.0,neg,1.0,peter_college,neg_mat
+435,5afc49240b2d5f00015697ad,She doesn't have a husband. ,expt3_2,other,1.0,neither,1.0,sally_wine,pos_mat
+436,5afc49240b2d5f00015697ad,She gets mugged on the way to the store and all her money is stolen. She will never own a Gucci bag now. It's very sad. ,expt3_2,ls_neg_ans3,1.0,neg,1.0,louise_shopping,pos_mat
+437,5afc49240b2d5f00015697ad,She is actually meeting different colleagues because the aggressive ones have all been fired for being aggressive. ,expt3_2,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,neg_mat
+438,5afc49240b2d5f00015697ad,The essay is his best. ,expt3_2,re_pos_ans7,1.0,pos,1.0,robert_essay,neg_mat
+439,5afc49240b2d5f00015697ad,There's an apocalypse. ,expt3_2,other,1.0,neg,1.0,sam_driving,neg_mat
+440,5afe7c9196a88e0001ff4b9d,He finds a raccoon hiding with the lawnmower ,expt3_1,sg_neg_ans8,1.0,neg,1.0,steve_garden,neg_mat
+441,5afe7c9196a88e0001ff4b9d,He finds very few mistakes ,expt3_1,re_pos_ans7,1.0,pos,1.0,robert_essay,pos_mat
+442,5afe7c9196a88e0001ff4b9d,His boss offers him a promotion with a pay rise,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+443,5afe7c9196a88e0001ff4b9d,She bumps into her husband who is buying a bottle of wine for them to share during their dinner,expt3_1,sw_pos_ans5,1.0,pos,1.0,sally_wine,neg_mat
+444,5afe7c9196a88e0001ff4b9d,She goes to the expensive clothes store and realises they are having a big sale ,expt3_1,ls_pos_ans4,1.0,pos,1.0,louise_shopping,neg_mat
+445,5afe7c9196a88e0001ff4b9d,The bank refused her loan ,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+446,5afe7c9196a88e0001ff4b9d,The meeting has been rescheduled and no one has let Belinda know,expt3_1,bm_neg_ans3,1.0,neg,1.0,belinda_meeting,pos_mat
+447,5afe7c9196a88e0001ff4b9d,The pizza has her favourite toppings,expt3_1,mf_pos_ans3,1.0,pos,1.0,mary_food,pos_mat
+448,5afe7c9196a88e0001ff4b9d,The traffic is bad and Peter still arrives late ,expt3_1,pc_neg_ans3,1.0,neg,1.0,peter_college,pos_mat
+449,5afe7c9196a88e0001ff4b9d,The traffic reports say that their is a traffic jam coming up due to a road traffic accident and there is no way for Sam to back out now,expt3_1,sd_neg_ans1,1.0,neg,1.0,sam_driving,pos_mat
+450,5b04e335331e8100018f7b76,I think Bob decided to keep his job.,expt3_1,bj_neg_ans4,1.0,neg,1.0,bob_job,neg_mat
+451,5b04e335331e8100018f7b76,I think Peter does not get to class on time.,expt3_1,pc_neg_ans3,1.0,neg,1.0,peter_college,pos_mat
+452,5b04e335331e8100018f7b76,I think she had no money in her account.,expt3_1,ls_neg_ans1,1.0,neg,1.0,louise_shopping,neg_mat
+453,5b04e335331e8100018f7b76,I think that Lucy gets a big car loan.,expt3_1,ll_pos_ans2,1.0,pos,1.0,lucy_loan,neg_mat
+454,5b04e335331e8100018f7b76,I think that Robert did not do well on his philosophy essay.,expt3_1,other,1.0,neg,1.0,robert_essay,pos_mat
+455,5b04e335331e8100018f7b76,I think that Sally did not get the bottle of wine.,expt3_1,sw_neg_ans2,1.0,neg,1.0,sally_wine,neg_mat
+456,5b04e335331e8100018f7b76,I think that Sam did not make it home on time to watch the soccer match.,expt3_1,sd_neg_ans4,1.0,neg,1.0,sam_driving,pos_mat
+457,5b04e335331e8100018f7b76,I think that the lawnmower did not work.,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+458,5b04e335331e8100018f7b76,I think that the people weren't as welcoming as usual. ,expt3_1,bm_neg_ans8,1.0,neg,1.0,belinda_meeting,pos_mat
+459,5b04e335331e8100018f7b76,I think the pizza wasn't for Mary.,expt3_1,mf_neg_ans5,1.0,neg,1.0,mary_food,pos_mat
+460,5b15a1369663ee000146421e,At the corner-shop Sally sees her husband kissing another woman. And they get into a huge argument that leads to the end of their marriage. ,expt3_2,sw_neg_ans7,1.0,neg,1.0,sally_wine,pos_mat
+461,5b15a1369663ee000146421e,Her LA colleagues aren't as aggressive as usual. Belinda actually has a productive meeting and greatly enjoys her time in LA. ,expt3_2,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,neg_mat
+462,5b15a1369663ee000146421e,I think Bob is fired from his job due to downsizing despite is excellent job performance. ,expt3_2,bj_neg_ans1,1.0,neg,1.0,bob_job,pos_mat
+463,5b15a1369663ee000146421e,Lucy's loan application is refused. So she has to sell her old car to come up with the funds for a new one. ,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+464,5b15a1369663ee000146421e,Mary opens the fridge and finds leftovers from the day before. ,expt3_2,mf_pos_ans2,1.0,pos,1.0,mary_food,neg_mat
+465,5b15a1369663ee000146421e,Peter isn't paying enough attention in his hurry and his struck by an impatient taxi. He ends up in hospital and completly misses the lecture. ,expt3_2,pc_neg_ans1,1.0,neg,1.0,peter_college,neg_mat
+466,5b15a1369663ee000146421e,Robert manages to finish the essay on time and he recieves a surprisingly high mark for it. ,expt3_2,re_pos_ans1,1.0,pos,1.0,robert_essay,neg_mat
+467,5b15a1369663ee000146421e,Sam turns the radio on just in time to hear the best route to take to avoid the traffic jam and get home in time for the start of the game. ,expt3_2,sd_pos_ans4,1.0,pos,1.0,sam_driving,neg_mat
+468,5b15a1369663ee000146421e,The expensive store she visits is having a sale and she manages to find a boat load of bargains. ,expt3_2,ls_pos_ans4,1.0,pos,1.0,louise_shopping,pos_mat
+469,5b15a1369663ee000146421e,While Steve cuts the grass he runs over a stone which goes flying through the air and shatters the neighbors window. ,expt3_2,sg_neg_ans8,1.0,neg,1.0,steve_garden,pos_mat
+470,5b3077876d601d0001d5ebf5,He decides to tear it up because he is too ashamed to present it. ,expt3_2,re_neg_ans3,1.0,neg,1.0,robert_essay,neg_mat
+471,5b3077876d601d0001d5ebf5,His boss offers him a pay rise. ,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+472,5b3077876d601d0001d5ebf5,I think Mary decided to eat her friend's pizza crusts. ,expt3_2,mf_neg_ans5,1.0,neg,1.0,mary_food,neg_mat
+473,5b3077876d601d0001d5ebf5,Lucy's bank refused the loan so now she cannot buy a new car. ,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+474,5b3077876d601d0001d5ebf5,Peter got halfway there and decided to turn back home because he didn't want to attend the class with the professor he disliked. ,expt3_2,other,1.0,pos,1.0,peter_college,neg_mat
+475,5b3077876d601d0001d5ebf5,Sam was pleasantly surprised to see that his lawnmower was still working because he hadn't used it for a long time. ,expt3_2,other,1.0,pos,1.0,steve_garden,pos_mat
+476,5b3077876d601d0001d5ebf5,She arrives at the corner shop and hears shouts coming from inside and then a gunshot. ,expt3_2,sw_neg_ans3,1.0,neg,1.0,sally_wine,pos_mat
+477,5b3077876d601d0001d5ebf5,She took out her money from the atm and went to her favourite shop to buy clothes. ,expt3_2,other,1.0,neither,1.0,louise_shopping,pos_mat
+478,5b3077876d601d0001d5ebf5,She turns up and nobody is there. ,expt3_2,other,1.0,neg,1.0,belinda_meeting,neg_mat
+479,5b3077876d601d0001d5ebf5,When Sam turns on the radio he hears that there is a 10km traffic jam because a pedestrian has been knocked over by a truck. ,expt3_2,sd_neg_ans1,1.0,neg,1.0,sam_driving,neg_mat
+480,5b339c509ccd3200014547a6,"He arrives home just in time and asks his flatmate to turn on the soccer match on the television. His flatmate rightly calls him out on his use of the word ""soccer"" and points out that it is indeed football. After a long argument interrupted with the occasional swearword at the illegal streaming apk not working they both decide to go and smoke a big spliff and chill out.",expt3_2,other,1.0,neither,1.0,sam_driving,neg_mat
+481,5b339c509ccd3200014547a6,"He is suddenly whisked away into the mind of Stephen Hawking like a weird take on the film ""Innerspace"". From here he is able to completely change his view on philosophy and the human mind, enabling him to create an essay of enough significance that it rivals Darwin's ""Origin Of The Species""",expt3_2,other,1.0,pos,1.0,robert_essay,neg_mat
+482,5b339c509ccd3200014547a6,"It turned out that the pizza crust was made from sourdough. Sourdough in a pizza you ask? Why would someone do such a thing? Well Mary, wasn't best pleased so decided to get her own back by poisoning her flatmate's smashed avocado that she had been keeping in the fridge.",expt3_2,mf_neg_ans1,1.0,neg,1.0,mary_food,neg_mat
+483,5b339c509ccd3200014547a6,It turned out that the venue was indeed the correct one but her colleagues deliberately told her the wrong date so she missed the meeting.,expt3_2,bm_neg_ans8,1.0,neg,1.0,belinda_meeting,neg_mat
+484,5b339c509ccd3200014547a6,Peter arrives home to find his mother in tears.The reason is that the professor (Mr  Plum) had raped his mother some years ago at an under 18's disco and that he was the bastard son of his professor.,expt3_2,other,1.0,neg,1.0,peter_college,neg_mat
+485,5b339c509ccd3200014547a6,"She went into the shop and tried to purchase those ridiculous baggy short trousers that are all the rage among hipsters these days. However, upon arriving at the counter to pay, she was intercepted by the Gardai and arrested for crimes against common decency and spent the next 15 years in Portlaoise prison being flogged 5 times a day with a pair of 1970s original Levi Strauss flares.",expt3_2,other,1.0,neg,1.0,louise_shopping,pos_mat
+486,5b339c509ccd3200014547a6,Steve didn't realise but there was actually a cricket game going on in his back garden! It was England vs the West Indies and Chris Gayle was giving a masterful performance at the crease. Unfortunately Steve gets hit on the heat with a fast bouncer from Steve Harmison who had just come out of retirement and bleeds to death on his own. Alone.,expt3_2,sg_neg_ans8,1.0,neg,1.0,steve_garden,pos_mat
+487,5b339c509ccd3200014547a6,The house near her shop is run by a friendly Indian gentleman who is knifed to death in front of Sally in a racist attack. Yet another tragic victim of the ever growing knife crime epidemic....,expt3_2,sw_neg_ans3,1.0,neg,1.0,sally_wine,pos_mat
+488,5b339c509ccd3200014547a6,"The salesman is actually Del Boy from Only Fools and Horses and when she tells the bank that she needs a loan, the bank refuses. They tell her that ""Trotters Independent Trading"" is not a reputable business. Lucy doesn't understand as she has never watched Only Fools and Horses as her favoured ""comedy"" show is ""Mrs Brown's Boys"". Lucy never makes anything of her life and after a period of inward reflection commits suicide at the age of 27, leaving behind only a box-set of The Vicar of Dibley.",expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+489,5b339c509ccd3200014547a6,"Upon arriving to meet his boss in the breakout area, he stumbles across his boss performing felatio on his best friend Trevor. Bob's boss has been ""happily"" married to Bob's sister Matilda for 10 years. Bob, disgusted and embarrassed by his boss' behaviour, scalds him with a kettle before mercilessly beating him to death with a packet of bourbon creams.",expt3_2,other,1.0,neg,1.0,bob_job,pos_mat
+490,5b6994d2a263aa0001c556a9,All blocked up,expt3_2,sd_neg_ans1,1.0,neg,1.0,sam_driving,neg_mat
+491,5b6994d2a263aa0001c556a9,Bike crashes,expt3_2,pc_neg_ans1,1.0,neg,1.0,peter_college,neg_mat
+492,5b6994d2a263aa0001c556a9,Cuts the flowers,expt3_2,sg_neg_ans9,1.0,neg,1.0,steve_garden,pos_mat
+493,5b6994d2a263aa0001c556a9,Forgets ID,expt3_2,sw_neg_ans4,1.0,neg,1.0,sally_wine,pos_mat
+494,5b6994d2a263aa0001c556a9,Gets mugged,expt3_2,ls_neg_ans3,1.0,neg,1.0,louise_shopping,pos_mat
+495,5b6994d2a263aa0001c556a9,Has to completely re-do it,expt3_2,re_neg_ans3,1.0,neg,1.0,robert_essay,neg_mat
+496,5b6994d2a263aa0001c556a9,Leaves the house without keys,expt3_2,mf_neg_ans3,1.0,neg,1.0,mary_food,neg_mat
+497,5b6994d2a263aa0001c556a9,Leaves the job,expt3_2,bj_neg_ans3,1.0,neg,1.0,bob_job,pos_mat
+498,5b6994d2a263aa0001c556a9,Refuses the loan,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+499,5b6994d2a263aa0001c556a9,Taxi crashes,expt3_2,bm_neg_ans1,1.0,neg,1.0,belinda_meeting,neg_mat
+500,5b8e61b84cdb3d000180249e,Bob is offered a promotion,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+501,5b8e61b84cdb3d000180249e,He hits someone,expt3_1,sd_neg_ans3,1.0,neg,1.0,sam_driving,pos_mat
+502,5b8e61b84cdb3d000180249e,He is hit by a car,expt3_1,pc_neg_ans1,1.0,neg,1.0,peter_college,pos_mat
+503,5b8e61b84cdb3d000180249e,His computer dies and he looses the latest unsaved version of the essay,expt3_1,re_neg_ans2,1.0,neg,1.0,robert_essay,pos_mat
+504,5b8e61b84cdb3d000180249e,She eats the pizza but gets food poisoning,expt3_1,mf_neg_ans6,1.0,neg,1.0,mary_food,pos_mat
+505,5b8e61b84cdb3d000180249e,She finds money on the street,expt3_1,sw_pos_ans3,1.0,pos,1.0,sally_wine,neg_mat
+506,5b8e61b84cdb3d000180249e,She is denied the loan,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+507,5b8e61b84cdb3d000180249e,She realises she has more money in her account,expt3_1,ls_pos_ans2,1.0,pos,1.0,louise_shopping,neg_mat
+508,5b8e61b84cdb3d000180249e,The lawnmower goes on fire,expt3_1,sg_neg_ans1,1.0,neg,1.0,steve_garden,neg_mat
+509,5b8e61b84cdb3d000180249e,The taxi crashes,expt3_1,bm_neg_ans1,1.0,neg,1.0,belinda_meeting,pos_mat
+510,5b90033fd88fc3000155aabd,As Peter is cycling to college he unfortunately gets a puncture which makes him miss his lecture.,expt3_2,pc_neg_ans2,1.0,neg,1.0,peter_college,neg_mat
+511,5b90033fd88fc3000155aabd,Belinda's flight was delayed and so she was dreading the meeting even more because as described her colleagues who are already aggressive would also be very annoyed because she was delayed. But in fact when she got there they were all so relieved to start the meeting that they were really nice to her for the first time ever.  ,expt3_2,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,neg_mat
+512,5b90033fd88fc3000155aabd,Bobs boss had decided to leave and consequently Bob was asked if he would like a promotion taking his boss's job.,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+513,5b90033fd88fc3000155aabd,Due to the weather the match was postponed and so Sam didn't miss watching the match.,expt3_2,sd_pos_ans1,1.0,pos,1.0,sam_driving,neg_mat
+514,5b90033fd88fc3000155aabd,Louise goes to the expensive clothes shop and she spends a lot of time looking around but doesn't actually buy anything because there is nothing she likes.,expt3_2,ls_pos_ans5,1.0,neg,1.0,louise_shopping,pos_mat
+515,5b90033fd88fc3000155aabd,"Lucy's bank refuse to give her a loan, but it doesn't matter as her old car is worth thousands so she just has to adjust her idea of how much she can spend on a new car.",expt3_2,ll_pos_ans1,1.0,pos,1.0,lucy_loan,pos_mat
+516,5b90033fd88fc3000155aabd,"Mary went back out to get some food but leaves her keys on the kitchen table. So when she returns she is locked out. She knocks the door until her flat mate opens it, who then tells her that she has saved her some pizza as there was no food. She had put it in the fridge where Mary hasn't seen it. ",expt3_2,mf_neg_ans3,1.0,neg,1.0,mary_food,neg_mat
+517,5b90033fd88fc3000155aabd,Roberts essay wasn't as bad as he thought and actually gets a very good grade.,expt3_2,re_pos_ans7,1.0,pos,1.0,robert_essay,neg_mat
+518,5b90033fd88fc3000155aabd,Sally's husband decided to surprise his wife and take her out to dinner instead.,expt3_2,sw_pos_ans5,1.0,pos,1.0,sally_wine,pos_mat
+519,5b90033fd88fc3000155aabd,"Unfortunately, when Steve went to use the lawnmower it wouldn't start and so he couldn't start tidying his garden up until it was fixed or replaced. ",expt3_2,sg_neg_ans4,1.0,neg,1.0,steve_garden,pos_mat
+520,5b90469e99417f00012ff045,Bob quits his job,expt3_1,bj_neg_ans3,1.0,neg,1.0,bob_job,neg_mat
+521,5b90469e99417f00012ff045,Louise doesn't have enough money to withdraw,expt3_1,ls_neg_ans1,1.0,neg,1.0,louise_shopping,neg_mat
+522,5b90469e99417f00012ff045,Robert finds a major error and has to rewrite some of his essay,expt3_1,re_neg_ans3,1.0,neg,1.0,robert_essay,pos_mat
+523,5b90469e99417f00012ff045,Sally is refused the sale of wine,expt3_1,sw_neg_ans4,1.0,neg,1.0,sally_wine,neg_mat
+524,5b90469e99417f00012ff045,Sam hits a traffic jam further down the road,expt3_1,sd_neg_ans1,1.0,neg,1.0,sam_driving,pos_mat
+525,5b90469e99417f00012ff045,Steve hits a rock and his lawnmower breaks,expt3_1,sg_neg_ans1,1.0,neg,1.0,steve_garden,neg_mat
+526,5b90469e99417f00012ff045,The bank refuse the loan,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+527,5b90469e99417f00012ff045,peter was an hour early so got there in plenty of time anyway,expt3_1,pc_pos_ans1,1.0,pos,1.0,peter_college,pos_mat
+528,5b90469e99417f00012ff045,the keys fall on the floor,expt3_1,mf_neg_ans3,1.0,neg,1.0,mary_food,pos_mat
+529,5b90469e99417f00012ff045,the wrong address was given for the meeting venue,expt3_1,bm_neg_ans6,1.0,neg,1.0,belinda_meeting,pos_mat
+530,5b93db5d83bd380001b89238,"A spaceship has landed on the road, causing the traffic jam. ",expt3_2,sd_neg_ans1,1.0,neg,1.0,sam_driving,neg_mat
+531,5b93db5d83bd380001b89238,"He ""accidentally"" knocks the Professor down in the car park at the college ",expt3_2,other,1.0,neg,1.0,peter_college,neg_mat
+532,5b93db5d83bd380001b89238,He finds out that redundancies are being made and he is in the firing line as he's only been there for 3 years ,expt3_2,bj_neg_ans1,1.0,neg,1.0,bob_job,pos_mat
+533,5b93db5d83bd380001b89238,Her colleagues are nice to her for once ,expt3_2,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,neg_mat
+534,5b93db5d83bd380001b89238,"Her flat mate suddenly walks through the door with  a takeaway, enough for them to share",expt3_2,mf_pos_ans1,1.0,pos,1.0,mary_food,neg_mat
+535,5b93db5d83bd380001b89238,It's actually not as bad as he thought and ends up getting an A,expt3_2,re_pos_ans7,1.0,pos,1.0,robert_essay,neg_mat
+536,5b93db5d83bd380001b89238,She can't find anything she wants to buy. ,expt3_2,other,1.0,neg,1.0,louise_shopping,pos_mat
+537,5b93db5d83bd380001b89238,The husband forgets and goes to the pub with his mates instead ,expt3_2,sw_neg_ans7,1.0,neg,1.0,sally_wine,pos_mat
+538,5b93db5d83bd380001b89238,They say no,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+539,5b93db5d83bd380001b89238,"When he has cut the grass he finds his ring, which he lost weeks ago, laying in the grass  ",expt3_2,sg_pos_ans3,1.0,pos,1.0,steve_garden,pos_mat
+540,5b9d427dacc87200010dc294,"A child walks out in front of his car, and Sam cannot stop in time. ",expt3_1,sd_neg_ans3,1.0,neg,1.0,sam_driving,pos_mat
+541,5b9d427dacc87200010dc294,He finds other flowers growing in the middle of the grass because the seeds have spread. ,expt3_1,other,1.0,neither,1.0,steve_garden,neg_mat
+542,5b9d427dacc87200010dc294,He finds out the essay isn't due for another week and so he didn't need to work late. ,expt3_1,re_pos_ans4,1.0,pos,1.0,robert_essay,pos_mat
+543,5b9d427dacc87200010dc294,Her colleagues are mean and unwelcoming. ,expt3_1,bm_neg_ans8,1.0,neg,1.0,belinda_meeting,pos_mat
+544,5b9d427dacc87200010dc294,Her husband is waiting at home with flowers for her and apologizes. ,expt3_1,sw_pos_ans5,1.0,pos,1.0,sally_wine,neg_mat
+545,5b9d427dacc87200010dc294,His boss says that Bob will soon receive a promotion. ,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+546,5b9d427dacc87200010dc294,Mary suddenly feels sick with the flu and cannot eat the pizza. ,expt3_1,mf_neg_ans4,1.0,neg,1.0,mary_food,pos_mat
+547,5b9d427dacc87200010dc294,"Peter runs into a car, gets injured, and does not make it to the lecture on time. ",expt3_1,pc_neg_ans1,1.0,neg,1.0,peter_college,pos_mat
+548,5b9d427dacc87200010dc294,The ATM tells her that her account is overdrawn and she will be charged a fee. ,expt3_1,ls_neg_ans1,1.0,neg,1.0,louise_shopping,neg_mat
+549,5b9d427dacc87200010dc294,The bank denies her loan. ,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+550,5ba03cd2bde9810001e0f06b,He got a promotion,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+551,5ba03cd2bde9810001e0f06b,She has more money than she thought,expt3_1,ls_pos_ans2,1.0,pos,1.0,louise_shopping,neg_mat
+552,5ba03cd2bde9810001e0f06b,She was a day late and missed the meeting,expt3_1,bm_neg_ans2,1.0,neg,1.0,belinda_meeting,pos_mat
+553,5ba03cd2bde9810001e0f06b,he bumps into a friend and they go to the pub to watch the game instead,expt3_1,other,1.0,pos,1.0,sam_driving,pos_mat
+554,5ba03cd2bde9810001e0f06b,his bike gets a flat tire and he is late for class,expt3_1,pc_neg_ans2,1.0,neg,1.0,peter_college,pos_mat
+555,5ba03cd2bde9810001e0f06b,his computer crashed and all his work was lost,expt3_1,re_neg_ans2,1.0,neg,1.0,robert_essay,pos_mat
+556,5ba03cd2bde9810001e0f06b,his lawnmower was broken,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+557,5ba03cd2bde9810001e0f06b,it wasn't the flatmate who left the pizza and her partner was waiting for her in the bedroom,expt3_1,mf_pos_ans1,1.0,pos,1.0,mary_food,pos_mat
+558,5ba03cd2bde9810001e0f06b,the bank Denys her a loan,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+559,5ba03cd2bde9810001e0f06b,when she gets back home her husband realised he'd been tight with the money and takes her out for a nice dinner,expt3_1,sw_pos_ans5,1.0,pos,1.0,sally_wine,neg_mat
+560,5bc84207f653a50001ce6375,an accident causes a long delay,expt3_2,sd_neg_ans1,1.0,neg,1.0,sam_driving,neg_mat
+561,5bc84207f653a50001ce6375,conflict in the meeting with her colleagues,expt3_2,bm_neg_ans8,1.0,neg,1.0,belinda_meeting,neg_mat
+562,5bc84207f653a50001ce6375,he ruined the flowers,expt3_2,sg_neg_ans9,1.0,neg,1.0,steve_garden,pos_mat
+563,5bc84207f653a50001ce6375,peter is hit by a car,expt3_2,pc_neg_ans1,1.0,neg,1.0,peter_college,neg_mat
+564,5bc84207f653a50001ce6375,she eats the pizza crusts,expt3_2,other,1.0,neither,1.0,mary_food,neg_mat
+565,5bc84207f653a50001ce6375,the boss tells him about a promotion opportunity,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+566,5bc84207f653a50001ce6375,the corner shop is out of wine,expt3_2,sw_neg_ans1,1.0,neg,1.0,sally_wine,pos_mat
+567,5bc84207f653a50001ce6375,the essay receives an A,expt3_2,re_pos_ans1,1.0,pos,1.0,robert_essay,neg_mat
+568,5bc84207f653a50001ce6375,the loan is approved,expt3_2,ll_pos_ans2,1.0,pos,1.0,lucy_loan,pos_mat
+569,5bc84207f653a50001ce6375,there was more money than expected in the atm,expt3_2,ls_pos_ans1,1.0,pos,1.0,louise_shopping,pos_mat
+570,5bcb88b9f0193b00018f9613,And finds some serious mistakes?,expt3_1,re_neg_ans3,1.0,neg,1.0,robert_essay,pos_mat
+571,5bcb88b9f0193b00018f9613,And finds that her account is low?,expt3_1,ls_neg_ans1,1.0,neg,1.0,louise_shopping,neg_mat
+572,5bcb88b9f0193b00018f9613,He finds a nest of hedgehogs?,expt3_1,sg_pos_ans3,1.0,pos,1.0,steve_garden,neg_mat
+573,5bcb88b9f0193b00018f9613,"She finds it too expensive, so decides to not get any.",expt3_1,sw_neg_ans4,1.0,neg,1.0,sally_wine,neg_mat
+574,5bcb88b9f0193b00018f9613,She got the date wrong?,expt3_1,bm_neg_ans2,1.0,neg,1.0,belinda_meeting,pos_mat
+575,5bcb88b9f0193b00018f9613,The boss brings up the topic first and gives him a promotion.,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+576,5bcb88b9f0193b00018f9613,The professor was sick so someone else stands in?,expt3_1,pc_pos_ans6,1.0,neither,1.0,peter_college,pos_mat
+577,5bcb88b9f0193b00018f9613,There is a large crash that blocks his only way home?,expt3_1,sd_neg_ans1,1.0,neg,1.0,sam_driving,pos_mat
+578,5bcb88b9f0193b00018f9613,They tell her that they can not give her a loan.,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+579,5bcb88b9f0193b00018f9613,When she comes back her keys are gone?,expt3_1,mf_neg_ans3,1.0,neg,1.0,mary_food,pos_mat
+580,5bcf97767819770001ec0bad,Don't know,expt3_2,,,,,,
+581,5bcf97767819770001ec0bad,He finds a shortcut,expt3_2,sd_pos_ans4,1.0,pos,1.0,sam_driving,neg_mat
+582,5bcf97767819770001ec0bad,He gets a bonus,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+583,5bcf97767819770001ec0bad,He made it,expt3_2,pc_pos_ans1,1.0,pos,1.0,peter_college,neg_mat
+584,5bcf97767819770001ec0bad,Her colleagues were different ones,expt3_2,other,1.0,neither,1.0,belinda_meeting,neg_mat
+585,5bcf97767819770001ec0bad,Its not working,expt3_2,sg_neg_ans4,1.0,neg,1.0,steve_garden,pos_mat
+586,5bcf97767819770001ec0bad,She keeps it,expt3_2,other,1.0,neither,1.0,lucy_loan,pos_mat
+587,5bcf97767819770001ec0bad,She spends it all,expt3_2,ls_neg_ans1,1.0,neg,1.0,louise_shopping,pos_mat
+588,5bcf97767819770001ec0bad,There was no wine,expt3_2,sw_neg_ans1,1.0,neg,1.0,sally_wine,pos_mat
+589,5bcf97767819770001ec0bad,he passed,expt3_2,re_pos_ans1,1.0,pos,1.0,robert_essay,neg_mat
+590,5bd249d45c90120001d1043f,A freak snowstorm covers the road in a foot of snow and he is stuck in a snowdrift until rescue comes.,expt3_1,sd_neg_ans6,1.0,neg,1.0,sam_driving,pos_mat
+591,5bd249d45c90120001d1043f,A stranger approaches her and offers a large amount of cash for her old car.,expt3_1,ll_pos_ans1,1.0,pos,1.0,lucy_loan,neg_mat
+592,5bd249d45c90120001d1043f,As he proofreads his final draft he realises that he has written the same sentence over and over and over again. There is nothing else written in the paper.,expt3_1,re_neg_ans3,1.0,neg,1.0,robert_essay,pos_mat
+593,5bd249d45c90120001d1043f,At the meeting his boss offers him a raise and a promotion.,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+594,5bd249d45c90120001d1043f,He is knocked off his bike by a speeding car being chased by the police.,expt3_1,pc_neg_ans1,1.0,neg,1.0,peter_college,pos_mat
+595,5bd249d45c90120001d1043f,"In the corner shop she meets a tall, dark stranger who asks her out for a coffee.",expt3_1,sw_pos_ans1,1.0,pos,1.0,sally_wine,neg_mat
+596,5bd249d45c90120001d1043f,She puts the pizza in the microwave and when she turns around her keys have disappeared.,expt3_1,mf_neg_ans3,1.0,neg,1.0,mary_food,pos_mat
+597,5bd249d45c90120001d1043f,"When she gets to the meeting her colleagues do not seem as welcoming as usual, they seem angry with her but she doesn't know why.",expt3_1,bm_neg_ans8,1.0,neg,1.0,belinda_meeting,pos_mat
+598,5bd249d45c90120001d1043f,When she goes to withdraw money from the ATM her balance shows a £10000 deposit has been made to her account. She has no idea where its come from.,expt3_1,ls_pos_ans2,1.0,pos,1.0,louise_shopping,neg_mat
+599,5bd249d45c90120001d1043f,While mowing the lawn he uncovers a locked box covered in mysterious writing and symbols.,expt3_1,sg_pos_ans3,1.0,pos,1.0,steve_garden,neg_mat
+600,5bded72cee652a0001f06a5a,He gets a promotion.,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+601,5bded72cee652a0001f06a5a,He has a collision with another cyclist and his bike is unusable.,expt3_1,pc_neg_ans1,1.0,neg,1.0,peter_college,pos_mat
+602,5bded72cee652a0001f06a5a,He notices lots of spelling mistakes.,expt3_1,re_neg_ans3,1.0,neg,1.0,robert_essay,pos_mat
+603,5bded72cee652a0001f06a5a,One of the soccer teams buses was involved in an accident and the game had to be postponed.,expt3_1,sd_neg_ans1,1.0,neg,1.0,sam_driving,pos_mat
+604,5bded72cee652a0001f06a5a,Sally doesn't have any money and her cards get declined.,expt3_1,sw_neg_ans4,1.0,neg,1.0,sally_wine,neg_mat
+605,5bded72cee652a0001f06a5a,She gets a very big loan with a low interest rate.,expt3_1,ll_pos_ans2,1.0,pos,1.0,lucy_loan,neg_mat
+606,5bded72cee652a0001f06a5a,Somebody snatches her money from the ATM and runs off with it.,expt3_1,ls_neg_ans3,1.0,neg,1.0,louise_shopping,neg_mat
+607,5bded72cee652a0001f06a5a,The cord to the lawnmower has been bitten in half.,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+608,5bded72cee652a0001f06a5a,The meeting was postponed.,expt3_1,bm_neg_ans3,1.0,neg,1.0,belinda_meeting,pos_mat
+609,5bded72cee652a0001f06a5a,The table collapses.,expt3_1,other,1.0,neg,1.0,mary_food,pos_mat
+610,5beb042a4a8f350001b69e8a,An unexpected bill has been taken out of her account and her balance is much lower than she thought it would be.,expt3_2,ls_neg_ans1,1.0,neg,1.0,louise_shopping,pos_mat
+611,5beb042a4a8f350001b69e8a,"He finally brought up his recent thoughts, and his boss began a dialogue about a possible promotion and his future in the company, recognising his hard work.",expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+612,5beb042a4a8f350001b69e8a,"He found there was a secret garden right behind his own, similarly overgrown, and he tidies them both up, restoring them to their former beauty.",expt3_2,sg_pos_ans3,1.0,pos,1.0,steve_garden,pos_mat
+613,5beb042a4a8f350001b69e8a,He made it to College on time and enjoyed the lecture by his least favourite professor.,expt3_2,pc_pos_ans1,1.0,pos,1.0,peter_college,neg_mat
+614,5beb042a4a8f350001b69e8a,"He went over it again that last time and realised it had a good framework, it just wasn't arranged correctly, so he edited it again, handed it in, and got a respectable grade for proofreading and editing correctly. ",expt3_2,re_pos_ans2,1.0,pos,1.0,robert_essay,neg_mat
+615,5beb042a4a8f350001b69e8a,"She arrives at the corner shop and her husband is already there, buying her favourite bottle of wine.",expt3_2,sw_pos_ans5,1.0,pos,1.0,sally_wine,pos_mat
+616,5beb042a4a8f350001b69e8a,"She opens the fridge and her friend has her left her a re-heatable tupperware full of homemade pasta bolognese, with a sticky note saying, 'sorry for raiding the cupboards, you were out, hope this will tide you over til tomorrow!'",expt3_2,mf_pos_ans1,1.0,pos,1.0,mary_food,neg_mat
+617,5beb042a4a8f350001b69e8a,"The bank set Lucy straight and tell her the car isn't worth that amount, and give her advice on where she can find cheaper deals.",expt3_2,other,1.0,pos,1.0,lucy_loan,pos_mat
+618,5beb042a4a8f350001b69e8a,"The colleagues were actually very friendly and welcoming, and she had a great time.",expt3_2,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,neg_mat
+619,5beb042a4a8f350001b69e8a,The radio lets him know of a small detour he could take and he makes it home just in time.,expt3_2,sd_pos_ans4,1.0,pos,1.0,sam_driving,neg_mat
+620,5bf145444db2de000190e05e,a car hits him,expt3_1,pc_neg_ans1,1.0,neg,1.0,peter_college,pos_mat
+621,5bf145444db2de000190e05e,bank turns her down for a loan,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+622,5bf145444db2de000190e05e,boss fires him,expt3_1,bj_neg_ans1,1.0,neg,1.0,bob_job,neg_mat
+623,5bf145444db2de000190e05e,gas explosion,expt3_1,other,1.0,neg,1.0,robert_essay,pos_mat
+624,5bf145444db2de000190e05e,he takes his eyes off the road for a split second and crashes into an oncoming vehicle,expt3_1,sd_neg_ans3,1.0,neg,1.0,sam_driving,pos_mat
+625,5bf145444db2de000190e05e,he trips in the undergrowth and caves his head in,expt3_1,sg_neg_ans7,1.0,neg,1.0,steve_garden,neg_mat
+626,5bf145444db2de000190e05e,plane crashed,expt3_1,bm_neg_ans2,1.0,neg,1.0,belinda_meeting,pos_mat
+627,5bf145444db2de000190e05e,she ate the pizza and it was poisoned...she died,expt3_1,mf_neg_ans6,1.0,neg,1.0,mary_food,pos_mat
+628,5bf145444db2de000190e05e,she buys a scratch card and wins the lottery,expt3_1,sw_pos_ans3,1.0,pos,1.0,sally_wine,neg_mat
+629,5bf145444db2de000190e05e,she shoplifted at the clothes store,expt3_1,other,1.0,neg,1.0,louise_shopping,neg_mat
+630,5bf716d84cf1db0001aa80d8,"He finds a family of frogs but doesn't realise until too late, and accidentally kills them",expt3_2,sg_neg_ans8,1.0,neg,1.0,steve_garden,pos_mat
+631,5bf716d84cf1db0001aa80d8,"He gets hit by a car, but he's okay",expt3_2,pc_neg_ans1,1.0,neg,1.0,peter_college,neg_mat
+632,5bf716d84cf1db0001aa80d8,He has accidentally written all of the lowercase letters in upper case and visa-versa ,expt3_2,re_neg_ans3,1.0,neg,1.0,robert_essay,neg_mat
+633,5bf716d84cf1db0001aa80d8,Her husband has stolen all her money and run off to Mexico,expt3_2,other,1.0,neg,1.0,lucy_loan,pos_mat
+634,5bf716d84cf1db0001aa80d8,His boss makes him redundant due to cuts that are above his boss' pay grade,expt3_2,bj_neg_ans1,1.0,neg,1.0,bob_job,pos_mat
+635,5bf716d84cf1db0001aa80d8,"It was all an elaborate set up, her flat mate has planned a surprise birthday party for her!",expt3_2,mf_pos_ans1,1.0,pos,1.0,mary_food,neg_mat
+636,5bf716d84cf1db0001aa80d8,She bumps into her ex boyfriend and goes home with him!,expt3_2,sw_pos_ans1,1.0,pos,1.0,sally_wine,pos_mat
+637,5bf716d84cf1db0001aa80d8,She gets mugged and they take all her money ,expt3_2,ls_neg_ans3,1.0,neg,1.0,louise_shopping,pos_mat
+638,5bf716d84cf1db0001aa80d8,She gets stuck in traffic for six hours and misses the whole meeting,expt3_2,bm_neg_ans1,1.0,neg,1.0,belinda_meeting,neg_mat
+639,5bf716d84cf1db0001aa80d8,There's a big flood in the centre of town where he lives and he can't get home,expt3_2,sd_neg_ans1,1.0,neg,1.0,sam_driving,neg_mat
+640,5bfbe8178a63aa0001808602,He realises that he had misread the essay question and that everything he has written thus far is off-topic and irrelevant.,expt3_1,re_neg_ans3,1.0,neg,1.0,robert_essay,pos_mat
+641,5bfbe8178a63aa0001808602,Her colleagues were distant.,expt3_1,bm_neg_ans8,1.0,neg,1.0,belinda_meeting,pos_mat
+642,5bfbe8178a63aa0001808602,His boss offers him a promotion.,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+643,5bfbe8178a63aa0001808602,"Mary faints, unable to eat some pizza quickly enough to recover her strength.",expt3_1,other,1.0,neg,1.0,mary_food,pos_mat
+644,5bfbe8178a63aa0001808602,"Peter falls off bike, too distracted by his anxiety about being late.",expt3_1,pc_neg_ans1,1.0,neg,1.0,peter_college,pos_mat
+645,5bfbe8178a63aa0001808602,Sally encounters her husband attempting to rob their local corner-shop.,expt3_1,sw_neg_ans7,1.0,neg,1.0,sally_wine,neg_mat
+646,5bfbe8178a63aa0001808602,She is rejected for a loan.,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+647,5bfbe8178a63aa0001808602,She realises she can no longer afford unnecessarily expensive attire. ,expt3_1,ls_neg_ans1,1.0,neg,1.0,louise_shopping,neg_mat
+648,5bfbe8178a63aa0001808602,Steve discovers the dead flowers in his garden aren't his; his real flowers being very much alive - despite being uprooted - and stowed away for some unknown purpose in his lawnmower.,expt3_1,other,1.0,neither,1.0,steve_garden,neg_mat
+649,5bfbe8178a63aa0001808602,The traffic reports tell of a major accident on part of Sam's route home.,expt3_1,sd_neg_ans1,1.0,neg,1.0,sam_driving,pos_mat
+650,5bfc2227f88f3900014b0e1d,He disturbs a wasps nest when he takes out the lawnmower.,expt3_2,sg_neg_ans8,1.0,neg,1.0,steve_garden,pos_mat
+651,5bfc2227f88f3900014b0e1d,"He unexpectedly gets a brain wave, does a bit more research and manages to re-write some of his essay and it is now much better.",expt3_2,re_pos_ans2,1.0,pos,1.0,robert_essay,neg_mat
+652,5bfc2227f88f3900014b0e1d,Her keys go missing when she is looking for food,expt3_2,mf_neg_ans3,1.0,neg,1.0,mary_food,neg_mat
+653,5bfc2227f88f3900014b0e1d,His bike tire goes flat and he's very late,expt3_2,pc_neg_ans2,1.0,neg,1.0,peter_college,neg_mat
+654,5bfc2227f88f3900014b0e1d,His boss offers him a promotion,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+655,5bfc2227f88f3900014b0e1d,She has less money in her bank account than she thought,expt3_2,ls_neg_ans1,1.0,neg,1.0,louise_shopping,pos_mat
+656,5bfc2227f88f3900014b0e1d,"She is late for her meeting, but her colleagues are understanding",expt3_2,bm_neg_ans2,1.0,neither,1.0,belinda_meeting,neg_mat
+657,5bfc2227f88f3900014b0e1d,The bank can give her the loan for the new car but the dealer now wants more for it.,expt3_2,ll_neg_ans2,1.0,neg,1.0,lucy_loan,pos_mat
+658,5bfc2227f88f3900014b0e1d,"The traffic is worse than imagined, he probably won't make it on time at all, there has been a major accident on his main route.",expt3_2,sd_neg_ans1,1.0,neg,1.0,sam_driving,neg_mat
+659,5bfc2227f88f3900014b0e1d,The usual corner shop is not open so she has to drive further to a supermarket.,expt3_2,sw_neg_ans5,1.0,neg,1.0,sally_wine,pos_mat
+660,5bfc6fe0a1f050000101f5e7,He corner shop is being robbed by a transformer,expt3_2,sw_neg_ans3,1.0,neg,1.0,sally_wine,pos_mat
+661,5bfc6fe0a1f050000101f5e7,Her keys fall off the table ,expt3_2,mf_neg_ans3,1.0,neg,1.0,mary_food,neg_mat
+662,5bfc6fe0a1f050000101f5e7,His boss fires him ,expt3_2,bj_neg_ans1,1.0,neg,1.0,bob_job,pos_mat
+663,5bfc6fe0a1f050000101f5e7,His paper turns into a transformer and shoots him,expt3_2,other,1.0,neg,1.0,robert_essay,neg_mat
+664,5bfc6fe0a1f050000101f5e7,His radio is actually a transformer and shoots him,expt3_2,other,1.0,neg,1.0,sam_driving,neg_mat
+665,5bfc6fe0a1f050000101f5e7,"She ironically gets run over by her old car, which is also a transformer.",expt3_2,other,1.0,neg,1.0,lucy_loan,pos_mat
+666,5bfc6fe0a1f050000101f5e7,Taxi crashes,expt3_2,bm_neg_ans1,1.0,neg,1.0,belinda_meeting,neg_mat
+667,5bfc6fe0a1f050000101f5e7,The ATM is actually a transformer and shoots her,expt3_2,ls_neg_ans2,1.0,neg,1.0,louise_shopping,pos_mat
+668,5bfc6fe0a1f050000101f5e7,The lawnmower is completely normal and is not a transformer. He dies in a freak accident the next day.,expt3_2,other,1.0,neg,1.0,steve_garden,pos_mat
+669,5bfc6fe0a1f050000101f5e7,The professor is a transformer and shoots him,expt3_2,other,1.0,neg,1.0,peter_college,neg_mat
+670,5c00652dca48ef0001e35dd4,He accidentally moves over the blossomed flowers,expt3_2,sg_neg_ans9,1.0,neg,1.0,steve_garden,pos_mat
+671,5c00652dca48ef0001e35dd4,He bumps into his lecturer with his bike they exchange words,expt3_2,pc_neg_ans1,1.0,neg,1.0,peter_college,neg_mat
+672,5c00652dca48ef0001e35dd4,He doesn't get home on time to watch the match but watches it in his car and gets home hrs later,expt3_2,sd_pos_ans5,1.0,neg,1.0,sam_driving,neg_mat
+673,5c00652dca48ef0001e35dd4,He gets a better mark than expected ,expt3_2,re_pos_ans1,1.0,pos,1.0,robert_essay,neg_mat
+674,5c00652dca48ef0001e35dd4,He is offered a promotion,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+675,5c00652dca48ef0001e35dd4,Her keys get taken by her flat mate,expt3_2,mf_neg_ans3,1.0,neg,1.0,mary_food,neg_mat
+676,5c00652dca48ef0001e35dd4,"Meeting is cancelled, she goes out with her colleagues and discovers that they are okay ",expt3_2,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,neg_mat
+677,5c00652dca48ef0001e35dd4,She buys a new car and is offered a ton of money for her old one and pays off the loan,expt3_2,ll_pos_ans1,1.0,pos,1.0,lucy_loan,pos_mat
+678,5c00652dca48ef0001e35dd4,She loses the money,expt3_2,ls_neg_ans3,1.0,neg,1.0,louise_shopping,pos_mat
+679,5c00652dca48ef0001e35dd4,Someone has stolen her purse,expt3_2,sw_neg_ans3,1.0,neg,1.0,sally_wine,pos_mat
+680,5c0873de3be61100011a6aa5,He crashes into a tree.,expt3_1,sd_neg_ans3,1.0,neg,1.0,sam_driving,pos_mat
+681,5c0873de3be61100011a6aa5,He falls off his bike.,expt3_1,pc_neg_ans1,1.0,neg,1.0,peter_college,pos_mat
+682,5c0873de3be61100011a6aa5,He fell asleep.,expt3_1,re_neg_ans4,1.0,neg,1.0,robert_essay,pos_mat
+683,5c0873de3be61100011a6aa5,He got fired.,expt3_1,bj_neg_ans1,1.0,neg,1.0,bob_job,neg_mat
+684,5c0873de3be61100011a6aa5,Her dog ate her keys,expt3_1,mf_neg_ans3,1.0,neg,1.0,mary_food,pos_mat
+685,5c0873de3be61100011a6aa5,She gets mugged.,expt3_1,sw_neg_ans3,1.0,neg,1.0,sally_wine,neg_mat
+686,5c0873de3be61100011a6aa5,She got denied for a loan.,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+687,5c0873de3be61100011a6aa5,She got robbed.,expt3_1,ls_neg_ans3,1.0,neg,1.0,louise_shopping,neg_mat
+688,5c0873de3be61100011a6aa5,The lawn mower runs him over.,expt3_1,sg_neg_ans7,1.0,neg,1.0,steve_garden,neg_mat
+689,5c0873de3be61100011a6aa5,The meeting was cancelled due to unexpected circumstances.,expt3_1,bm_neg_ans3,1.0,neg,1.0,belinda_meeting,pos_mat
+690,5c0bbbcddd3c4c00011c02a9,He gets fired.,expt3_2,bj_neg_ans1,1.0,neg,1.0,bob_job,pos_mat
+691,5c0bbbcddd3c4c00011c02a9,He is able to take an alternative route and be on time.,expt3_2,sd_pos_ans4,1.0,pos,1.0,sam_driving,neg_mat
+692,5c0bbbcddd3c4c00011c02a9,He passes.,expt3_2,re_pos_ans1,1.0,pos,1.0,robert_essay,neg_mat
+693,5c0bbbcddd3c4c00011c02a9,Her keys go missing.,expt3_2,mf_neg_ans3,1.0,neg,1.0,mary_food,neg_mat
+694,5c0bbbcddd3c4c00011c02a9,His bike wheel goes flat and he can't ride it.,expt3_2,pc_neg_ans2,1.0,neg,1.0,peter_college,neg_mat
+695,5c0bbbcddd3c4c00011c02a9,It did not issue her her money. ,expt3_2,ls_neg_ans2,1.0,neg,1.0,louise_shopping,pos_mat
+696,5c0bbbcddd3c4c00011c02a9,Maybe it was cancelled.,expt3_2,bm_neg_ans3,1.0,neg,1.0,belinda_meeting,neg_mat
+697,5c0bbbcddd3c4c00011c02a9,She cannot take out the loan.,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+698,5c0bbbcddd3c4c00011c02a9,There were animal nests under the long grass so he needs to sort that out first.,expt3_2,sg_neg_ans8,1.0,neither,1.0,steve_garden,pos_mat
+699,5c0bbbcddd3c4c00011c02a9,they had no wine.,expt3_2,sw_neg_ans1,1.0,neg,1.0,sally_wine,pos_mat
+700,5c100554e32f86000165130a,Bob gets made redundant. ,expt3_2,bj_neg_ans1,1.0,neg,1.0,bob_job,pos_mat
+701,5c100554e32f86000165130a,He discovers that the lawn mower is broken.,expt3_2,sg_neg_ans4,1.0,neg,1.0,steve_garden,pos_mat
+702,5c100554e32f86000165130a,Her loan application is rejected. ,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+703,5c100554e32f86000165130a,His computer crashes and the file is corrupted. ,expt3_2,re_neg_ans2,1.0,neg,1.0,robert_essay,neg_mat
+704,5c100554e32f86000165130a,Peter gets into a crash. ,expt3_2,pc_neg_ans1,1.0,neg,1.0,peter_college,neg_mat
+705,5c100554e32f86000165130a,The meeting has been cancelled. ,expt3_2,bm_neg_ans3,1.0,neg,1.0,belinda_meeting,neg_mat
+706,5c100554e32f86000165130a,The traffic is so bad he misses the first half of the match. ,expt3_2,sd_neg_ans1,1.0,neg,1.0,sam_driving,neg_mat
+707,5c100554e32f86000165130a,There is a two for one deal on wine at the shop. ,expt3_2,sw_pos_ans2,1.0,pos,1.0,sally_wine,pos_mat
+708,5c100554e32f86000165130a,There is no pizza left. ,expt3_2,other,1.0,neg,1.0,mary_food,neg_mat
+709,5c100554e32f86000165130a,There is not enough money in her account. ,expt3_2,ls_neg_ans1,1.0,neg,1.0,louise_shopping,pos_mat
+710,5c18259881976400016c9eca,His boss was dead,expt3_1,other,1.0,neg,1.0,bob_job,neg_mat
+711,5c18259881976400016c9eca,Lost Angeles was closed,expt3_1,other,1.0,neg,1.0,belinda_meeting,pos_mat
+712,5c18259881976400016c9eca,"Sally realised that she could earn money as a lady of the night, she touted for business by the corner shop, to her surprise her first customer was her husband, Sally began to understand why they had no money and that she had a drinking problem ",expt3_1,other,1.0,neg,1.0,sally_wine,neg_mat
+713,5c18259881976400016c9eca,"She ate the pizza only to find her flatmate had poisoned it as she was in love with Mary and Mary had knocked her back, oops dead mary",expt3_1,mf_neg_ans6,1.0,neg,1.0,mary_food,pos_mat
+714,5c18259881976400016c9eca,"Steve hadn't cut the grass for over a year, he discovered the body of a 68 year old homeless man who went missing 6 months previously, the mystery of the dead flowers was now solved",expt3_1,sg_neg_ans8,1.0,neg,1.0,steve_garden,neg_mat
+715,5c18259881976400016c9eca,"Suddenly over the radio there came an urgent news flash, the war of the worlds was real, the amazing creatures from another planet had started to invade. Sam being an avid football fan ignored this and got home in time for the match",expt3_1,other,1.0,neg,1.0,sam_driving,pos_mat
+716,5c18259881976400016c9eca,The atm gave her thousands of dollars,expt3_1,ls_pos_ans1,1.0,pos,1.0,louise_shopping,neg_mat
+717,5c18259881976400016c9eca,"When he started peddling his bike it started to lift off the ground and fly, Peter decided to quit his course as he only wanted a career so he could afford to see the world, now with Bessie the super bike he could fly anywhere",expt3_1,other,1.0,pos,1.0,peter_college,pos_mat
+718,5c18259881976400016c9eca,When she rang the bank she was the millionth caller and won a car,expt3_1,ll_pos_ans3,1.0,pos,1.0,lucy_loan,neg_mat
+719,5c18259881976400016c9eca,"Whilst proofreading his laptop got hacked and his essay was seen by the worlds leading philosopher, his essay was published and he won the Nobel award",expt3_1,re_neg_ans2,1.0,pos,1.0,robert_essay,pos_mat
+720,5c18c5e2dd82cf00013549b4,Bob's boss resigns naming Bob as his successor.,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+721,5c18c5e2dd82cf00013549b4,Louise finds that her company has accidentally deposited £10000 in her account.,expt3_1,ls_pos_ans2,1.0,pos,1.0,louise_shopping,neg_mat
+722,5c18c5e2dd82cf00013549b4,"No-one else is there, Belinda has flown to the wrong city.",expt3_1,bm_neg_ans6,1.0,neg,1.0,belinda_meeting,pos_mat
+723,5c18c5e2dd82cf00013549b4,Peter is almost at college when he realises he's forgotten his student ID so has to turn round and get it from home.,expt3_1,pc_neg_ans4,1.0,neg,1.0,peter_college,pos_mat
+724,5c18c5e2dd82cf00013549b4,Robert accidentally deletes the essay and has to begin again.,expt3_1,re_neg_ans2,1.0,neg,1.0,robert_essay,pos_mat
+725,5c18c5e2dd82cf00013549b4,Sally comes face to face with her husband in the shop. He's buying ingredients to cook a meal for them to make up for all the arguments they've being having.,expt3_1,sw_pos_ans5,1.0,pos,1.0,sally_wine,neg_mat
+726,5c18c5e2dd82cf00013549b4,Sam turns on the radio and hears that the match has been called off due to horrendous weather conditions.,expt3_1,sd_pos_ans1,1.0,neg,1.0,sam_driving,pos_mat
+727,5c18c5e2dd82cf00013549b4,Steve finds that an animal has chewed through the wire of his lawnmower and it isn't usable.,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+728,5c18c5e2dd82cf00013549b4,The bank says no to the loan so Lucy drives to the bank in her old car and carries out a bank robbery.,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+729,5c18c5e2dd82cf00013549b4,The pizza was off- it had been left out all day.,expt3_1,mf_neg_ans1,1.0,neg,1.0,mary_food,pos_mat
+730,5c18c8279bce3100018a2d43,boss wouldnt talk to him,expt3_1,bj_neg_ans2,1.0,neg,1.0,bob_job,neg_mat
+731,5c18c8279bce3100018a2d43,finds error,expt3_1,re_neg_ans3,1.0,neg,1.0,robert_essay,pos_mat
+732,5c18c8279bce3100018a2d43,hasnt been paid,expt3_1,ls_neg_ans1,1.0,neg,1.0,louise_shopping,neg_mat
+733,5c18c8279bce3100018a2d43,knocks pizza on to floor,expt3_1,other,1.0,neg,1.0,mary_food,pos_mat
+734,5c18c8279bce3100018a2d43,lawnmower does not start up,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+735,5c18c8279bce3100018a2d43,loan turned down,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+736,5c18c8279bce3100018a2d43,no wine left,expt3_1,sw_neg_ans1,1.0,neg,1.0,sally_wine,neg_mat
+737,5c18c8279bce3100018a2d43,taxi broke down,expt3_1,bm_neg_ans1,1.0,neg,1.0,belinda_meeting,pos_mat
+738,5c18c8279bce3100018a2d43,traffic on stop on route,expt3_1,sd_neg_ans1,1.0,neg,1.0,sam_driving,pos_mat
+739,5c18c8279bce3100018a2d43,tyre goes flat,expt3_1,pc_neg_ans2,1.0,neg,1.0,peter_college,pos_mat
+740,5c1a460794472d0001560494,Belinda quits her job because she's better than a bunch of moody co workers ,expt3_2,other,1.0,neg,1.0,belinda_meeting,neg_mat
+741,5c1a460794472d0001560494,He cycles off in the opposite direction.,expt3_2,pc_neg_ans3,1.0,neg,1.0,peter_college,neg_mat
+742,5c1a460794472d0001560494,He got a promotion and is now on his way up.,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+743,5c1a460794472d0001560494,He submits it and gets an A,expt3_2,re_pos_ans1,1.0,pos,1.0,robert_essay,neg_mat
+744,5c1a460794472d0001560494,She comes home and her husband has set the table with a bottle of wine.,expt3_2,sw_pos_ans5,1.0,pos,1.0,sally_wine,pos_mat
+745,5c1a460794472d0001560494,She decides to save her money and go for a KFC instead ,expt3_2,ls_pos_ans5,1.0,pos,1.0,louise_shopping,pos_mat
+746,5c1a460794472d0001560494,She eats her flatmates pizza and they find out and a big argument happens.,expt3_2,mf_neg_ans5,1.0,neg,1.0,mary_food,neg_mat
+747,5c1a460794472d0001560494,"She gets the quote and also gets a quote for her classic car, she gets thousands and buys her dream car.",expt3_2,ll_pos_ans1,1.0,pos,1.0,lucy_loan,pos_mat
+748,5c1a460794472d0001560494,he cuts the grass and re plants the flowers,expt3_2,sg_pos_ans1,1.0,pos,1.0,steve_garden,pos_mat
+749,5c1a460794472d0001560494,he misses the game,expt3_2,sd_neg_ans4,1.0,neg,1.0,sam_driving,neg_mat
+750,5c1b97f889f0350001726def,All of her colleagues were not aggressive this time around.,expt3_2,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,neg_mat
+751,5c1b97f889f0350001726def,Cleaned up his garden and found beautiful flowers.,expt3_2,sg_pos_ans3,1.0,pos,1.0,steve_garden,pos_mat
+752,5c1b97f889f0350001726def,Drops the bottle of wine and shatters it on the way home.,expt3_2,sw_neg_ans3,1.0,neg,1.0,sally_wine,pos_mat
+753,5c1b97f889f0350001726def,Get in a car wreck for driving to fast and in a hurry.,expt3_2,sd_neg_ans3,1.0,neg,1.0,sam_driving,neg_mat
+754,5c1b97f889f0350001726def,He was promoted to a higher position.,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+755,5c1b97f889f0350001726def,Professor tole Peter to get it together in the class or he will be dropped.,expt3_2,pc_neg_ans5,1.0,neg,1.0,peter_college,neg_mat
+756,5c1b97f889f0350001726def,She got busted eating her friends pizza crusts..lol,expt3_2,mf_neg_ans5,1.0,neg,1.0,mary_food,neg_mat
+757,5c1b97f889f0350001726def,She spent all of her pay raise at the expensive clothing stores.,expt3_2,ls_neg_ans1,1.0,neg,1.0,louise_shopping,pos_mat
+758,5c1b97f889f0350001726def,She was approved for the loan and also received a discount on her classic car.,expt3_2,ll_pos_ans2,1.0,pos,1.0,lucy_loan,pos_mat
+759,5c1b97f889f0350001726def,Shocked he received an A for his work.,expt3_2,re_pos_ans1,1.0,pos,1.0,robert_essay,neg_mat
+760,5c2d58fc0eed420001fa4fd0,His boss offers him a promotion.,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+761,5c2d58fc0eed420001fa4fd0,His computer crashes and loses the whole thing. ,expt3_1,re_neg_ans2,1.0,neg,1.0,robert_essay,pos_mat
+762,5c2d58fc0eed420001fa4fd0,His lawnmower is broken.,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+763,5c2d58fc0eed420001fa4fd0,Peter gets a flat tyre.,expt3_1,pc_neg_ans2,1.0,neg,1.0,peter_college,pos_mat
+764,5c2d58fc0eed420001fa4fd0,The ATM gives her double money by mistake.,expt3_1,ls_pos_ans1,1.0,pos,1.0,louise_shopping,neg_mat
+765,5c2d58fc0eed420001fa4fd0,The bank offer her a great deal. ,expt3_1,ll_pos_ans2,1.0,pos,1.0,lucy_loan,neg_mat
+766,5c2d58fc0eed420001fa4fd0,There is a huge traffic jam up ahead. ,expt3_1,sd_neg_ans1,1.0,neg,1.0,sam_driving,pos_mat
+767,5c2d58fc0eed420001fa4fd0,There is an offer on for a free bottle of wine.,expt3_1,sw_pos_ans2,1.0,pos,1.0,sally_wine,neg_mat
+768,5c2d58fc0eed420001fa4fd0,"When she gets there, there is no meeting. ",expt3_1,bm_neg_ans3,1.0,neg,1.0,belinda_meeting,pos_mat
+769,5c2d58fc0eed420001fa4fd0,"When she turns back around, her keys are gone",expt3_1,mf_neg_ans3,1.0,neg,1.0,mary_food,pos_mat
+770,5c2f4c8b37733700013b4e3c,A mouse runs across the pizza,expt3_1,mf_neg_ans2,1.0,neg,1.0,mary_food,pos_mat
+771,5c2f4c8b37733700013b4e3c,He crashes his car,expt3_1,sd_neg_ans3,1.0,neg,1.0,sam_driving,pos_mat
+772,5c2f4c8b37733700013b4e3c,He finds that the last paragraph of the essay is missing,expt3_1,re_neg_ans3,1.0,neg,1.0,robert_essay,pos_mat
+773,5c2f4c8b37733700013b4e3c,His boss offers him a promotion,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+774,5c2f4c8b37733700013b4e3c,Peter gets a flat tyre on his bike,expt3_1,pc_neg_ans2,1.0,neg,1.0,peter_college,pos_mat
+775,5c2f4c8b37733700013b4e3c,She arrives at the venue to find it closed,expt3_1,other,1.0,neg,1.0,belinda_meeting,pos_mat
+776,5c2f4c8b37733700013b4e3c,The ATM gives her twice as much money as she requested,expt3_1,ls_pos_ans1,1.0,pos,1.0,louise_shopping,neg_mat
+777,5c2f4c8b37733700013b4e3c,The bank refuse to give her a loan,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+778,5c2f4c8b37733700013b4e3c,The corner shop gets robbed while she is in there,expt3_1,sw_neg_ans3,1.0,neg,1.0,sally_wine,neg_mat
+779,5c2f4c8b37733700013b4e3c,The lawn mower goes up in flames,expt3_1,sg_neg_ans1,1.0,neg,1.0,steve_garden,neg_mat
+780,5c34b21d19ceb400010b6f77,He can't find the lawnmower,expt3_2,other,1.0,neg,1.0,steve_garden,pos_mat
+781,5c34b21d19ceb400010b6f77,He falls and rips his pants,expt3_2,pc_neg_ans1,1.0,neg,1.0,peter_college,neg_mat
+782,5c34b21d19ceb400010b6f77,He got a raise,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+783,5c34b21d19ceb400010b6f77,Her husband also bought a bottle of wine,expt3_2,sw_pos_ans5,1.0,pos,1.0,sally_wine,pos_mat
+784,5c34b21d19ceb400010b6f77,Her interest rate was higher than expected,expt3_2,ll_neg_ans2,1.0,neg,1.0,lucy_loan,pos_mat
+785,5c34b21d19ceb400010b6f77,Her paycheck hadn't been adjusted for her pay raise,expt3_2,ls_neg_ans1,1.0,neg,1.0,louise_shopping,pos_mat
+786,5c34b21d19ceb400010b6f77,His computer deletes his essay,expt3_2,re_neg_ans2,1.0,neg,1.0,robert_essay,neg_mat
+787,5c34b21d19ceb400010b6f77,The game is delayed,expt3_2,sd_pos_ans1,1.0,pos,1.0,sam_driving,neg_mat
+788,5c34b21d19ceb400010b6f77,The meeting was cancelled,expt3_2,bm_neg_ans3,1.0,neg,1.0,belinda_meeting,neg_mat
+789,5c34b21d19ceb400010b6f77,There's leftover pizza for her,expt3_2,mf_pos_ans1,1.0,pos,1.0,mary_food,neg_mat
+790,5c3b5c053ad8fd00015c66e4,Bob gets recognition for his hard work.,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+791,5c3b5c053ad8fd00015c66e4,Her colleagues were unwelcoming,expt3_1,bm_neg_ans8,1.0,neg,1.0,belinda_meeting,pos_mat
+792,5c3b5c053ad8fd00015c66e4,Her husband gets annoyed at her,expt3_1,sw_neg_ans7,1.0,neg,1.0,sally_wine,neg_mat
+793,5c3b5c053ad8fd00015c66e4,Louise cannot afford the clothes.,expt3_1,ls_neg_ans1,1.0,neg,1.0,louise_shopping,neg_mat
+794,5c3b5c053ad8fd00015c66e4,Lucy is unable to get a loan from the bank.,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+795,5c3b5c053ad8fd00015c66e4,Mary loses her keys,expt3_1,mf_neg_ans3,1.0,neg,1.0,mary_food,pos_mat
+796,5c3b5c053ad8fd00015c66e4,Peter falls off his bike,expt3_1,pc_neg_ans1,1.0,neg,1.0,peter_college,pos_mat
+797,5c3b5c053ad8fd00015c66e4,Robert's essay is not one of his best,expt3_1,other,1.0,neg,1.0,robert_essay,pos_mat
+798,5c3b5c053ad8fd00015c66e4,Sam crashes his car,expt3_1,sd_neg_ans3,1.0,neg,1.0,sam_driving,pos_mat
+799,5c3b5c053ad8fd00015c66e4,The lawnmower is broken,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+800,5c41e9263be7b70001fcf4ab,He finds a big issue with with his work,expt3_1,re_neg_ans3,1.0,neg,1.0,robert_essay,pos_mat
+801,5c41e9263be7b70001fcf4ab,He gets a call on his mobile,expt3_1,other,1.0,neither,1.0,peter_college,pos_mat
+802,5c41e9263be7b70001fcf4ab,He hands in his notice,expt3_1,bj_neg_ans3,1.0,neg,1.0,bob_job,neg_mat
+803,5c41e9263be7b70001fcf4ab,He hears the match is cancelled,expt3_1,sd_pos_ans1,1.0,pos,1.0,sam_driving,pos_mat
+804,5c41e9263be7b70001fcf4ab,Her account is empty,expt3_1,ls_neg_ans1,1.0,neg,1.0,louise_shopping,neg_mat
+805,5c41e9263be7b70001fcf4ab,Her loan is approved,expt3_1,ll_pos_ans2,1.0,pos,1.0,lucy_loan,neg_mat
+806,5c41e9263be7b70001fcf4ab,She finds money on the floor,expt3_1,other,1.0,pos,1.0,mary_food,pos_mat
+807,5c41e9263be7b70001fcf4ab,The mower is broken,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+808,5c41e9263be7b70001fcf4ab,The shop is closed,expt3_1,sw_neg_ans5,1.0,neg,1.0,sally_wine,neg_mat
+809,5c41e9263be7b70001fcf4ab,The taxi crashes,expt3_1,bm_neg_ans1,1.0,neg,1.0,belinda_meeting,pos_mat
+810,5c42572e3be7b70001fd086b,He deletes all his essay,expt3_1,re_neg_ans2,1.0,neg,1.0,robert_essay,pos_mat
+811,5c42572e3be7b70001fd086b,He falls over,expt3_1,sg_neg_ans7,1.0,neg,1.0,steve_garden,neg_mat
+812,5c42572e3be7b70001fd086b,He is offered a new role,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+813,5c42572e3be7b70001fd086b,His bike breaks down,expt3_1,pc_neg_ans2,1.0,neg,1.0,peter_college,pos_mat
+814,5c42572e3be7b70001fd086b,She is locked out,expt3_1,mf_neg_ans3,1.0,neg,1.0,mary_food,pos_mat
+815,5c42572e3be7b70001fd086b,She steals an item,expt3_1,other,1.0,neg,1.0,louise_shopping,neg_mat
+816,5c42572e3be7b70001fd086b,The bank agree the loan,expt3_1,ll_pos_ans2,1.0,pos,1.0,lucy_loan,neg_mat
+817,5c42572e3be7b70001fd086b,The plane crashed,expt3_1,bm_neg_ans4,1.0,neg,1.0,belinda_meeting,pos_mat
+818,5c42572e3be7b70001fd086b,The road is blocked,expt3_1,sd_neg_ans1,1.0,neg,1.0,sam_driving,pos_mat
+819,5c42572e3be7b70001fd086b,The shopkeeper gives her wine for free,expt3_1,sw_pos_ans2,1.0,pos,1.0,sally_wine,neg_mat
+820,5c45ca39d01d7a0001064c69,Bob gets a promotion.,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+821,5c45ca39d01d7a0001064c69,Her dog jumps onto the table and eats it!,expt3_1,other,1.0,neg,1.0,mary_food,pos_mat
+822,5c45ca39d01d7a0001064c69,Her husband brings home wine.,expt3_1,sw_pos_ans5,1.0,pos,1.0,sally_wine,neg_mat
+823,5c45ca39d01d7a0001064c69,It has been re-scheduled.,expt3_1,bm_neg_ans3,1.0,neg,1.0,belinda_meeting,pos_mat
+824,5c45ca39d01d7a0001064c69,Louise had more money than she thought.,expt3_1,ls_pos_ans2,1.0,pos,1.0,louise_shopping,neg_mat
+825,5c45ca39d01d7a0001064c69,Peter falls off his bike.,expt3_1,pc_neg_ans1,1.0,neg,1.0,peter_college,pos_mat
+826,5c45ca39d01d7a0001064c69,Robert doesn't get the mark he expects.,expt3_1,other,1.0,neither,1.0,robert_essay,pos_mat
+827,5c45ca39d01d7a0001064c69,Somebody gifted Louise a car.,expt3_1,ll_pos_ans3,1.0,pos,1.0,lucy_loan,neg_mat
+828,5c45ca39d01d7a0001064c69,The lawnmower is broken.,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+829,5c45ca39d01d7a0001064c69,"There is an accident ahead, and lots of traffic.",expt3_1,sd_neg_ans1,1.0,neg,1.0,sam_driving,pos_mat
+830,5c48644542213c0001f59917,He actually found the essay to be really well written despite his lack of research,expt3_2,re_pos_ans7,1.0,pos,1.0,robert_essay,neg_mat
+831,5c48644542213c0001f59917,He cuts the flowers down too by accident ,expt3_2,sg_neg_ans9,1.0,neg,1.0,steve_garden,pos_mat
+832,5c48644542213c0001f59917,He gets a promotion,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+833,5c48644542213c0001f59917,He gets knocked of his bicycle,expt3_2,pc_neg_ans1,1.0,neg,1.0,peter_college,neg_mat
+834,5c48644542213c0001f59917,He takes a diversion and gets home on time ,expt3_2,sd_pos_ans4,1.0,pos,1.0,sam_driving,neg_mat
+835,5c48644542213c0001f59917,Her husband has to stay late at work and misses the dinner,expt3_2,sw_neg_ans7,1.0,neg,1.0,sally_wine,pos_mat
+836,5c48644542213c0001f59917,Her loan is declined,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+837,5c48644542213c0001f59917,The machine doesnt give her the right money ,expt3_2,ls_neg_ans2,1.0,neg,1.0,louise_shopping,pos_mat
+838,5c48644542213c0001f59917,Traffic made her late to the meeting,expt3_2,bm_neg_ans1,1.0,neg,1.0,belinda_meeting,neg_mat
+839,5c48644542213c0001f59917,she loses her keys ,expt3_2,mf_neg_ans3,1.0,neg,1.0,mary_food,neg_mat
+840,5c488c8cc876980001935277,He is being offered a promotion.,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+841,5c488c8cc876980001935277,Her colleagues were kind and pleasant.,expt3_2,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,neg_mat
+842,5c488c8cc876980001935277,Her husband is in the shop buying a bottle of wine.,expt3_2,sw_pos_ans5,1.0,pos,1.0,sally_wine,pos_mat
+843,5c488c8cc876980001935277,She eats the pizza crust.,expt3_2,other,1.0,neg,1.0,mary_food,neg_mat
+844,5c488c8cc876980001935277,She withdrew false currency.,expt3_2,other,1.0,neg,1.0,louise_shopping,pos_mat
+845,5c488c8cc876980001935277,Someone hits his car.,expt3_2,sd_neg_ans3,1.0,neg,1.0,sam_driving,neg_mat
+846,5c488c8cc876980001935277,Steve loses control of the lawnmower and cuts his flowers.,expt3_2,sg_neg_ans9,1.0,neg,1.0,steve_garden,pos_mat
+847,5c488c8cc876980001935277,The bank manager offers her his car.,expt3_2,ll_pos_ans3,1.0,pos,1.0,lucy_loan,pos_mat
+848,5c488c8cc876980001935277,The essay is actually good.,expt3_2,re_pos_ans7,1.0,pos,1.0,robert_essay,neg_mat
+849,5c488c8cc876980001935277,The professor drives past him on the way.,expt3_2,other,1.0,neither,1.0,peter_college,neg_mat
+850,5c52dce2d3cc6b0001d938a5,He gets there on time,expt3_1,pc_pos_ans1,1.0,pos,1.0,peter_college,pos_mat
+851,5c52dce2d3cc6b0001d938a5,He quits his job,expt3_1,bj_neg_ans3,1.0,neg,1.0,bob_job,neg_mat
+852,5c52dce2d3cc6b0001d938a5,It is his best essay,expt3_1,re_pos_ans7,1.0,pos,1.0,robert_essay,pos_mat
+853,5c52dce2d3cc6b0001d938a5,Louise has no money,expt3_1,ls_neg_ans1,1.0,neg,1.0,louise_shopping,neg_mat
+854,5c52dce2d3cc6b0001d938a5,She doesn't have the money to buy the wine,expt3_1,sw_neg_ans4,1.0,neg,1.0,sally_wine,neg_mat
+855,5c52dce2d3cc6b0001d938a5,The lawn mower doesn't work,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+856,5c52dce2d3cc6b0001d938a5,The road stays clear and he makes it home for the match,expt3_1,sd_pos_ans3,1.0,pos,1.0,sam_driving,pos_mat
+857,5c52dce2d3cc6b0001d938a5,her flatmate left half a pizza on a plate for her,expt3_1,mf_pos_ans1,1.0,pos,1.0,mary_food,pos_mat
+858,5c52dce2d3cc6b0001d938a5,she couldn't get a loan,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+859,5c52dce2d3cc6b0001d938a5,there's no-one to welcome her,expt3_1,bm_neg_ans8,1.0,neg,1.0,belinda_meeting,pos_mat
+860,5c54c89477f9e700015ef6eb,He decides to redo the essay.,expt3_2,re_neg_ans3,1.0,neg,1.0,robert_essay,neg_mat
+861,5c54c89477f9e700015ef6eb,He is stuck in jam and hears match on radio.,expt3_2,sd_pos_ans5,1.0,neg,1.0,sam_driving,neg_mat
+862,5c54c89477f9e700015ef6eb,He was offered a promotion.,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+863,5c54c89477f9e700015ef6eb,Her husband decides to work late.,expt3_2,sw_neg_ans7,1.0,neg,1.0,sally_wine,pos_mat
+864,5c54c89477f9e700015ef6eb,His professor makes a positive remark about him.,expt3_2,pc_pos_ans5,1.0,pos,1.0,peter_college,neg_mat
+865,5c54c89477f9e700015ef6eb,She decides to go back out for food.,expt3_2,mf_pos_ans2,1.0,pos,1.0,mary_food,neg_mat
+866,5c54c89477f9e700015ef6eb,She does not buy anything from this shop.,expt3_2,ls_pos_ans5,1.0,neg,1.0,louise_shopping,pos_mat
+867,5c54c89477f9e700015ef6eb,She is refused a loan for a new car and decides to keep the now valuable old car.,expt3_2,ll_neg_ans1,1.0,neither,1.0,lucy_loan,pos_mat
+868,5c54c89477f9e700015ef6eb,The LA colleagues were not aggressive and she enjoyed the meeting.,expt3_2,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,neg_mat
+869,5c54c89477f9e700015ef6eb,The lawnmower is broken.,expt3_2,sg_neg_ans4,1.0,neg,1.0,steve_garden,pos_mat
+870,5c5dac055ba0cd0001c1649e,Bob quit his job ,expt3_1,bj_neg_ans3,1.0,neg,1.0,bob_job,neg_mat
+871,5c5dac055ba0cd0001c1649e,Buys more than she can afford ,expt3_1,sw_neg_ans2,1.0,neg,1.0,sally_wine,neg_mat
+872,5c5dac055ba0cd0001c1649e,He has to change the whole essay because it's not the right topic ,expt3_1,re_neg_ans3,1.0,neg,1.0,robert_essay,pos_mat
+873,5c5dac055ba0cd0001c1649e,His grass was also dead ,expt3_1,other,1.0,neg,1.0,steve_garden,neg_mat
+874,5c5dac055ba0cd0001c1649e,Meeting was canceled ,expt3_1,bm_neg_ans3,1.0,neg,1.0,belinda_meeting,pos_mat
+875,5c5dac055ba0cd0001c1649e,Peter crashes on his bike ,expt3_1,pc_neg_ans1,1.0,neg,1.0,peter_college,pos_mat
+876,5c5dac055ba0cd0001c1649e,Sam crashes into someone else ,expt3_1,sd_neg_ans3,1.0,neg,1.0,sam_driving,pos_mat
+877,5c5dac055ba0cd0001c1649e,She was out of money to buy clothes ,expt3_1,ls_neg_ans1,1.0,neg,1.0,louise_shopping,neg_mat
+878,5c5dac055ba0cd0001c1649e,The bank denies her loan ,expt3_1,ll_neg_ans1,1.0,neg,1.0,lucy_loan,neg_mat
+879,5c5dac055ba0cd0001c1649e,The pizza wasn't for mary ,expt3_1,mf_neg_ans5,1.0,neg,1.0,mary_food,pos_mat
+880,5c6099f292e37d00012f484b,He found a hedgehog.,expt3_2,sg_pos_ans3,1.0,pos,1.0,steve_garden,pos_mat
+881,5c6099f292e37d00012f484b,He got a promotion.,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+882,5c6099f292e37d00012f484b,Her colleagues were nice.,expt3_2,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,neg_mat
+883,5c6099f292e37d00012f484b,Her favorite wine was half price.,expt3_2,sw_pos_ans2,1.0,pos,1.0,sally_wine,pos_mat
+884,5c6099f292e37d00012f484b,His computer crashed.,expt3_2,re_neg_ans2,1.0,neg,1.0,robert_essay,neg_mat
+885,5c6099f292e37d00012f484b,She forgot where she left her keys.,expt3_2,mf_neg_ans3,1.0,neg,1.0,mary_food,neg_mat
+886,5c6099f292e37d00012f484b,The lecture got cancelled. ,expt3_2,pc_pos_ans4,1.0,pos,1.0,peter_college,neg_mat
+887,5c6099f292e37d00012f484b,The road had been closed and he would miss the match.,expt3_2,sd_neg_ans1,1.0,neg,1.0,sam_driving,neg_mat
+888,5c6099f292e37d00012f484b,They declined her application.,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+889,5c6099f292e37d00012f484b,They had a sale on.,expt3_2,ls_pos_ans4,1.0,pos,1.0,louise_shopping,pos_mat
+890,5c62e51b32caed0001de5aa5,He cuts all the flowers accidentally ,expt3_2,sg_neg_ans9,1.0,neg,1.0,steve_garden,pos_mat
+891,5c62e51b32caed0001de5aa5,He gets a very good mark,expt3_2,re_pos_ans1,1.0,pos,1.0,robert_essay,neg_mat
+892,5c62e51b32caed0001de5aa5,He got a promotion,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+893,5c62e51b32caed0001de5aa5,Her colleagues were nice to her,expt3_2,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,neg_mat
+894,5c62e51b32caed0001de5aa5,Her flat mate threw her keys in the bin instead of the pizza crusts,expt3_2,mf_neg_ans3,1.0,neg,1.0,mary_food,neg_mat
+895,5c62e51b32caed0001de5aa5,Her husband is in the shop buying her flowers,expt3_2,sw_pos_ans5,1.0,pos,1.0,sally_wine,pos_mat
+896,5c62e51b32caed0001de5aa5,His professor ran him over in a car,expt3_2,pc_neg_ans1,1.0,neg,1.0,peter_college,neg_mat
+897,5c62e51b32caed0001de5aa5,The bank gave her a large loan,expt3_2,ll_pos_ans2,1.0,pos,1.0,lucy_loan,pos_mat
+898,5c62e51b32caed0001de5aa5,The road was completely closed and he missed the match,expt3_2,sd_neg_ans1,1.0,neg,1.0,sam_driving,neg_mat
+899,5c62e51b32caed0001de5aa5,There was not enough money in her account to withdraw,expt3_2,ls_neg_ans1,1.0,neg,1.0,louise_shopping,pos_mat
+900,5c62f7ca1f94dc000168f311,he decides to leave the lawn and sits to enjoy the flowers instead,expt3_2,other,1.0,pos,1.0,steve_garden,pos_mat
+901,5c62f7ca1f94dc000168f311,he gets the football score,expt3_2,sd_pos_ans5,1.0,pos,1.0,sam_driving,neg_mat
+902,5c62f7ca1f94dc000168f311,he realises the deadline was yesterday,expt3_2,other,1.0,neg,1.0,robert_essay,neg_mat
+903,5c62f7ca1f94dc000168f311,her phone rings and its an invitation to dinner with friends,expt3_2,mf_pos_ans1,1.0,pos,1.0,mary_food,neg_mat
+904,5c62f7ca1f94dc000168f311,his professor has a puncture in his car on the roadside as he sees Peter cycling past,expt3_2,other,1.0,pos,1.0,peter_college,neg_mat
+905,5c62f7ca1f94dc000168f311,she is the 1000 th customer and wins a free case of wine,expt3_2,sw_pos_ans3,1.0,pos,1.0,sally_wine,pos_mat
+906,5c62f7ca1f94dc000168f311,the shop doesnt take cash,expt3_2,other,1.0,neg,1.0,louise_shopping,pos_mat
+907,5c62f7ca1f94dc000168f311,the taxi takes her to the wrong address,expt3_2,bm_neg_ans6,1.0,neg,1.0,belinda_meeting,neg_mat
+908,5c62f7ca1f94dc000168f311,they are making redundancies,expt3_2,bj_neg_ans1,1.0,neg,1.0,bob_job,pos_mat
+909,5c62f7ca1f94dc000168f311,they refuse the loan,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+910,5c643f1140c2610001424b7f,He got a promotion with a big pay rise,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+911,5c643f1140c2610001424b7f,Her balance was zero at the ATM,expt3_2,ls_neg_ans1,1.0,neg,1.0,louise_shopping,pos_mat
+912,5c643f1140c2610001424b7f,Her flat mate came into the kitchen with a pizza for Mary,expt3_2,mf_pos_ans1,1.0,pos,1.0,mary_food,neg_mat
+913,5c643f1140c2610001424b7f,THe essay turns out it is not so bad after all,expt3_2,re_pos_ans7,1.0,pos,1.0,robert_essay,neg_mat
+914,5c643f1140c2610001424b7f,The bank refused Lucy a loan,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+915,5c643f1140c2610001424b7f,The lawnmower would not work,expt3_2,sg_neg_ans4,1.0,neg,1.0,steve_garden,pos_mat
+916,5c643f1140c2610001424b7f,The match was posponed,expt3_2,sd_pos_ans1,1.0,pos,1.0,sam_driving,neg_mat
+917,5c643f1140c2610001424b7f,The owner gave the bottle of wine to Sally as a present,expt3_2,sw_pos_ans2,1.0,pos,1.0,sally_wine,pos_mat
+918,5c643f1140c2610001424b7f,The taxi driver took Belinda to the wrong destination,expt3_2,bm_neg_ans6,1.0,neg,1.0,belinda_meeting,neg_mat
+919,5c643f1140c2610001424b7f,There is a different Professor doing the lecture today,expt3_2,pc_pos_ans6,1.0,neither,1.0,peter_college,neg_mat
+920,5c66bbd0d0fb37000172fdfe,He accidentally cuts the flowers.,expt3_2,sg_neg_ans9,1.0,neg,1.0,steve_garden,pos_mat
+921,5c66bbd0d0fb37000172fdfe,He crashes his bike.,expt3_2,pc_neg_ans1,1.0,neg,1.0,peter_college,neg_mat
+922,5c66bbd0d0fb37000172fdfe,He gets a promotion from his boss.,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+923,5c66bbd0d0fb37000172fdfe,He was stuck there for multiple hours.,expt3_2,sd_neg_ans1,1.0,neg,1.0,sam_driving,neg_mat
+924,5c66bbd0d0fb37000172fdfe,Her colleagues were unexpectedly kind and weren't aggressive.,expt3_2,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,neg_mat
+925,5c66bbd0d0fb37000172fdfe,His essay was surprisingly good and got a very high mark.,expt3_2,re_pos_ans1,1.0,pos,1.0,robert_essay,neg_mat
+926,5c66bbd0d0fb37000172fdfe,She doesn't get a loan for her new car.,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+927,5c66bbd0d0fb37000172fdfe,She forgets her bank card in the ATM.,expt3_2,ls_neg_ans3,1.0,neg,1.0,louise_shopping,pos_mat
+928,5c66bbd0d0fb37000172fdfe,The corner shop doesn't have any wine in stock.,expt3_2,sw_neg_ans1,1.0,neg,1.0,sally_wine,pos_mat
+929,5c66bbd0d0fb37000172fdfe,When trying to find her keys again they're gone.,expt3_2,mf_neg_ans3,1.0,neg,1.0,mary_food,neg_mat
+930,5c66d6a50d7f5f00014b8ab0,A car crash,expt3_2,bm_neg_ans1,1.0,neg,1.0,belinda_meeting,neg_mat
+931,5c66d6a50d7f5f00014b8ab0,He crashes,expt3_2,pc_neg_ans1,1.0,neg,1.0,peter_college,neg_mat
+932,5c66d6a50d7f5f00014b8ab0,He gets promoted,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+933,5c66d6a50d7f5f00014b8ab0,He notices some errors,expt3_2,re_neg_ans3,1.0,neg,1.0,robert_essay,neg_mat
+934,5c66d6a50d7f5f00014b8ab0,She gets more money than expected,expt3_2,ls_pos_ans1,1.0,pos,1.0,louise_shopping,pos_mat
+935,5c66d6a50d7f5f00014b8ab0,She sees her favourite bottle on sale,expt3_2,sw_pos_ans2,1.0,pos,1.0,sally_wine,pos_mat
+936,5c66d6a50d7f5f00014b8ab0,The keys fall off the table,expt3_2,mf_neg_ans3,1.0,neg,1.0,mary_food,neg_mat
+937,5c66d6a50d7f5f00014b8ab0,The lawnmower breaks down,expt3_2,sg_neg_ans1,1.0,neg,1.0,steve_garden,pos_mat
+938,5c66d6a50d7f5f00014b8ab0,The loan gets refused,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+939,5c66d6a50d7f5f00014b8ab0,Theres a traffic jam,expt3_2,sd_neg_ans1,1.0,neg,1.0,sam_driving,neg_mat
+940,5c66e20d5b22a50001da689d,bob is told he has been made redundant,expt3_2,bj_neg_ans1,1.0,neg,1.0,bob_job,pos_mat
+941,5c66e20d5b22a50001da689d,he is ran over by a car,expt3_2,pc_neg_ans1,1.0,neg,1.0,peter_college,neg_mat
+942,5c66e20d5b22a50001da689d,the bank refuse her the bank loan,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+943,5c66e20d5b22a50001da689d,the computer shuts down and he loses all his work,expt3_2,re_neg_ans2,1.0,neg,1.0,robert_essay,neg_mat
+944,5c66e20d5b22a50001da689d,the lawnmower is broken,expt3_2,sg_neg_ans4,1.0,neg,1.0,steve_garden,pos_mat
+945,5c66e20d5b22a50001da689d,the pizza crusts are hard and not suitable to eat,expt3_2,mf_neg_ans1,1.0,neg,1.0,mary_food,neg_mat
+946,5c66e20d5b22a50001da689d,the shop is shut,expt3_2,sw_neg_ans5,1.0,neg,1.0,sally_wine,pos_mat
+947,5c66e20d5b22a50001da689d,the store is closed,expt3_2,ls_neg_ans5,1.0,neg,1.0,louise_shopping,pos_mat
+948,5c66e20d5b22a50001da689d,the taxi breaks down,expt3_2,bm_neg_ans1,1.0,neg,1.0,belinda_meeting,neg_mat
+949,5c66e20d5b22a50001da689d,the traffic jam is not likely to clear in time,expt3_2,sd_neg_ans1,1.0,neg,1.0,sam_driving,neg_mat
+950,5c6b1c7150b03c00012bd345,He finds the match is playing on the radio too.,expt3_2,sd_pos_ans5,1.0,pos,1.0,sam_driving,neg_mat
+951,5c6b1c7150b03c00012bd345,He gets a promotion,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+952,5c6b1c7150b03c00012bd345,Her handbag was stolen,expt3_2,ls_neg_ans3,1.0,neg,1.0,louise_shopping,pos_mat
+953,5c6b1c7150b03c00012bd345,It actually reads much better than he had expected,expt3_2,re_pos_ans7,1.0,pos,1.0,robert_essay,neg_mat
+954,5c6b1c7150b03c00012bd345,Peter was praised for his contribution this week.,expt3_2,pc_pos_ans5,1.0,pos,1.0,peter_college,neg_mat
+955,5c6b1c7150b03c00012bd345,She bumps into her husband in the shop doing the same thing!,expt3_2,sw_pos_ans5,1.0,pos,1.0,sally_wine,pos_mat
+956,5c6b1c7150b03c00012bd345,"She can't remember where she left her keys so can't go out again to buy food, so she ends up calling for a takeaway.",expt3_2,mf_neg_ans3,1.0,neg,1.0,mary_food,neg_mat
+957,5c6b1c7150b03c00012bd345,The bank says no to the loan but she's actually able to buy one without it as her old car is worth so much to a classic car dealer.,expt3_2,ll_pos_ans1,1.0,pos,1.0,lucy_loan,pos_mat
+958,5c6b1c7150b03c00012bd345,The colleagues were actually very nice to her.,expt3_2,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,neg_mat
+959,5c6b1c7150b03c00012bd345,The lawnmower won't work.,expt3_2,sg_neg_ans4,1.0,neg,1.0,steve_garden,pos_mat
+960,5c6d4c30e68266000145604d,bob is premoted,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+961,5c6d4c30e68266000145604d,he decided to do more research and redo his essay staying up all night,expt3_2,re_neg_ans3,1.0,neg,1.0,robert_essay,neg_mat
+962,5c6d4c30e68266000145604d,her flat mate had got her a pizza it was on the table,expt3_2,mf_pos_ans1,1.0,pos,1.0,mary_food,neg_mat
+963,5c6d4c30e68266000145604d,she is refused a loan,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+964,5c6d4c30e68266000145604d,the lawnmower would not start,expt3_2,sg_neg_ans4,1.0,neg,1.0,steve_garden,pos_mat
+965,5c6d4c30e68266000145604d,the meeting was cancelled,expt3_2,bm_neg_ans3,1.0,neg,1.0,belinda_meeting,neg_mat
+966,5c6d4c30e68266000145604d,the professor he does not like is absent and the stand in is one of his favorites,expt3_2,pc_pos_ans6,1.0,pos,1.0,peter_college,neg_mat
+967,5c6d4c30e68266000145604d,"the road report gave him a new road to take , and he got home to watch the game",expt3_2,sd_pos_ans4,1.0,pos,1.0,sam_driving,neg_mat
+968,5c6d4c30e68266000145604d,the shop is closed,expt3_2,ls_neg_ans5,1.0,neg,1.0,louise_shopping,pos_mat
+969,5c6d4c30e68266000145604d,they only had champagne left ,expt3_2,sw_neg_ans1,1.0,neg,1.0,sally_wine,pos_mat
+970,5c71c66aaa7a7700018f2109,He crashed the bike,expt3_2,pc_neg_ans1,1.0,neg,1.0,peter_college,neg_mat
+971,5c71c66aaa7a7700018f2109,He scored well in the essay,expt3_2,re_pos_ans1,1.0,pos,1.0,robert_essay,neg_mat
+972,5c71c66aaa7a7700018f2109,Her husband had to work late,expt3_2,sw_neg_ans7,1.0,neg,1.0,sally_wine,pos_mat
+973,5c71c66aaa7a7700018f2109,His boss discusses promotions ,expt3_2,bj_pos_ans2,1.0,pos,1.0,bob_job,pos_mat
+974,5c71c66aaa7a7700018f2109,The atm didn't work,expt3_2,ls_neg_ans2,1.0,neg,1.0,louise_shopping,pos_mat
+975,5c71c66aaa7a7700018f2109,The lawnmower didn't work,expt3_2,sg_neg_ans4,1.0,neg,1.0,steve_garden,pos_mat
+976,5c71c66aaa7a7700018f2109,The loan was rejected ,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+977,5c71c66aaa7a7700018f2109,The meeting was cancelled ,expt3_2,bm_neg_ans3,1.0,neg,1.0,belinda_meeting,neg_mat
+978,5c71c66aaa7a7700018f2109,There was an accident which made traffic worse,expt3_2,sd_neg_ans1,1.0,neg,1.0,sam_driving,neg_mat
+979,5c71c66aaa7a7700018f2109,There was no food left,expt3_2,other,1.0,neg,1.0,mary_food,neg_mat
+980,5c7d4b654660bf0013c735d6,He falls of his bike from careless cycling.,expt3_2,pc_neg_ans1,1.0,neg,1.0,peter_college,neg_mat
+981,5c7d4b654660bf0013c735d6,He finds out he has an extra day to finish.,expt3_2,re_pos_ans4,1.0,pos,1.0,robert_essay,neg_mat
+982,5c7d4b654660bf0013c735d6,He finds out one of his friends was in a crash up ahead.,expt3_2,sd_neg_ans1,1.0,neg,1.0,sam_driving,neg_mat
+983,5c7d4b654660bf0013c735d6,Her colleagues were very nice to her.,expt3_2,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,neg_mat
+984,5c7d4b654660bf0013c735d6,Her pay rise doesn't register on her account.,expt3_2,ls_neg_ans1,1.0,neg,1.0,louise_shopping,pos_mat
+985,5c7d4b654660bf0013c735d6,His boss makes him redundant. ,expt3_2,bj_neg_ans1,1.0,neg,1.0,bob_job,pos_mat
+986,5c7d4b654660bf0013c735d6,His lawnmower is not working.,expt3_2,sg_neg_ans4,1.0,neg,1.0,steve_garden,pos_mat
+987,5c7d4b654660bf0013c735d6,She eats the pizza crusts in desperation.,expt3_2,other,1.0,neg,1.0,mary_food,neg_mat
+988,5c7d4b654660bf0013c735d6,She is rejected for a bank loan.,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+989,5c7d4b654660bf0013c735d6,She sees her husband kissing another woman.,expt3_2,sw_neg_ans7,1.0,neg,1.0,sally_wine,pos_mat
+990,73.244.196.89,"After some questions, the bank officer tells her that, due to the age of her car, it is probably very valuable and the car dealer is trying to rip her off.",expt3_1,other,1.0,pos,1.0,lucy_loan,neg_mat
+991,73.244.196.89,He comes across a speed trap and is pulled over then detained after smart-mouthing the cop so he misses the entire game on tv,expt3_1,sd_neg_ans1,1.0,neg,1.0,sam_driving,pos_mat
+992,73.244.196.89,He is hit by a speeding car that turns out to be that professor.,expt3_1,pc_neg_ans1,1.0,neg,1.0,peter_college,pos_mat
+993,73.244.196.89,His boss told him that he was resigning and that Bob was up for his position.,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+994,73.244.196.89,Someone knocks on his door - it's the pizza delivery guy with a pizza and soda that Robert's girlfriend has ordered for him.,expt3_1,other,1.0,pos,1.0,robert_essay,pos_mat
+995,73.244.196.89,The ATM kept her card because her accounts have been frozen by the FBI as she is under investigation for embezzlement.,expt3_1,ls_neg_ans2,1.0,neg,1.0,louise_shopping,neg_mat
+996,73.244.196.89,The lawnmower is out of gas because the neighborhood brats siphoned it out to start a bonfire,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+997,73.244.196.89,The meeting had been rescheduled and relocated to Belinda's hometown.,expt3_1,other,1.0,pos,1.0,belinda_meeting,pos_mat
+998,73.244.196.89,The store is robbed while Sally is there.,expt3_1,sw_neg_ans3,1.0,neg,1.0,sally_wine,neg_mat
+999,73.244.196.89,the flat-mate comes in looking for HER plate of pizza and loses her cool when she she's Mary eating it.,expt3_1,mf_neg_ans5,1.0,neg,1.0,mary_food,pos_mat
+1000,gail@gburgham.plus.com,"He changes her mind, and gets a bar of chocolate instead. then she goes for a long walk, while she eats all the chocolate.",expt3_1,sw_neg_ans2,1.0,pos,1.0,sally_wine,neg_mat
+1001,gail@gburgham.plus.com,Her family offer to buy/give her a car,expt3_1,ll_pos_ans3,1.0,pos,1.0,lucy_loan,neg_mat
+1002,gail@gburgham.plus.com,His boss offers him a promotion/wage rise.,expt3_1,bj_pos_ans2,1.0,pos,1.0,bob_job,neg_mat
+1003,gail@gburgham.plus.com,"His mother phones, and says she needs him to go to the hospital.",expt3_1,other,1.0,neg,1.0,sam_driving,pos_mat
+1004,gail@gburgham.plus.com,She decides to shop somewhere les expensive.,expt3_1,ls_pos_ans5,1.0,pos,1.0,louise_shopping,neg_mat
+1005,gail@gburgham.plus.com,"She put the pizza in the bin, and made something else to eat.",expt3_1,mf_pos_ans2,1.0,pos,1.0,mary_food,pos_mat
+1006,gail@gburgham.plus.com,The chain on his bike breaks.,expt3_1,pc_neg_ans2,1.0,neg,1.0,peter_college,pos_mat
+1007,gail@gburgham.plus.com,The lawnmower doesn't work.,expt3_1,sg_neg_ans4,1.0,neg,1.0,steve_garden,neg_mat
+1008,gail@gburgham.plus.com,"the computer crashes, and wont restart.",expt3_1,re_neg_ans2,1.0,neg,1.0,robert_essay,pos_mat
+1009,gail@gburgham.plus.com,"the meeting has been cancelled, and no one had contacted her.",expt3_1,bm_neg_ans3,1.0,neg,1.0,belinda_meeting,pos_mat
+1010,kateeprice@hotmail.co.uk,Bob asked for a promotion,expt3_2,other,1.0,neither,1.0,bob_job,pos_mat
+1011,kateeprice@hotmail.co.uk,He got a good grade in the essay,expt3_2,re_pos_ans1,1.0,pos,1.0,robert_essay,neg_mat
+1012,kateeprice@hotmail.co.uk,Her husband rings and says he cant make dinner,expt3_2,sw_neg_ans7,1.0,neg,1.0,sally_wine,pos_mat
+1013,kateeprice@hotmail.co.uk,His lawnmower breaks,expt3_2,sg_neg_ans1,1.0,neg,1.0,steve_garden,pos_mat
+1014,kateeprice@hotmail.co.uk,The ATM said her balance was $0,expt3_2,ls_neg_ans1,1.0,neg,1.0,louise_shopping,pos_mat
+1015,kateeprice@hotmail.co.uk,The bank say no to giving her a loan,expt3_2,ll_neg_ans1,1.0,neg,1.0,lucy_loan,pos_mat
+1016,kateeprice@hotmail.co.uk,The colleagues were not aggressive as expected,expt3_2,bm_pos_ans3,1.0,pos,1.0,belinda_meeting,neg_mat
+1017,kateeprice@hotmail.co.uk,The flatmate bought her a pizza,expt3_2,mf_pos_ans1,1.0,pos,1.0,mary_food,neg_mat
+1018,kateeprice@hotmail.co.uk,The game is cancelled because of rain,expt3_2,sd_pos_ans1,1.0,neg,1.0,sam_driving,neg_mat
+1019,kateeprice@hotmail.co.uk,The professor is friendly and doesn't sneer,expt3_2,pc_pos_ans5,1.0,pos,1.0,peter_college,neg_mat
