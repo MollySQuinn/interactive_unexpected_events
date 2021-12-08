@@ -5,4 +5,4 @@ Data was collected and labelled for studies in [Quinn, Campbell, & Keane (2021)]
 
 Using the data from the third study and adapting code from [this blog], I have made interactive dot plots (à la [Arkes & Gaissmaier (2012)](https://doi.org/10.1177/0956797612437428)) with the responses for each scenario presented, colored by their labeled valence.
 
-
+![Example Showing Expt 1](images/gif_of_expt1.gif) 
