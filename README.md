@@ -10,4 +10,4 @@ Using the data from these experiments, I have made interactive dot plots (à la 
 
 The static dot plots themselves were largely based on [this blog]( https://blog.matteoferla.com/2019/10/pictograms-with-plotly-and-fontawesome.html), and the braces showing overall percentage for positive and/or negative are 90-degree rotated versions of [this stackoverflow answer](https://stackoverflow.com/a/61454455).
 
-To use the interactive plots, download the data and the [interactive_plots.ipynb](interactive_plots.ipynb) file and run it in [Jupyter](https://jupyter.org/). The last cell defines the DASH app and will display the app in-line in Jupyter.
+To use the interactive plots, open the [interactive_plots_colab.ipynb](interactive_plots_colab.ipynb) file in Google Colab. The last cell defines the DASH app and will display the app in-line in the notebook.
