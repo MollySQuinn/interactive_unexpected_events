@@ -6,7 +6,7 @@ Data was collected and labelled for studies in [Quinn, Campbell, & Keane (2021)]
 
 Using the data from these experiments, I have made interactive dot plots (à la [Arkes & Gaissmaier (2012)](https://doi.org/10.1177/0956797612437428)) with the responses for each scenario presented, colored by their labeled valence.
 
-![Example Showing Expt 1](images/gif_of_expt1.gif) 
+![Example Showing Expt 1](images/colab_capture.gif) 
 
 The static dot plots themselves were largely based on [this blog]( https://blog.matteoferla.com/2019/10/pictograms-with-plotly-and-fontawesome.html), and the braces showing overall percentage for positive and/or negative are 90-degree rotated versions of [this stackoverflow answer](https://stackoverflow.com/a/61454455).
 
